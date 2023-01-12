@@ -1,0 +1,2673 @@
+{
+  "resources/fonts/Ikon-Crypto.ttf": {
+    "file": "assets/Ikon-Crypto-f2930f02.ttf",
+    "src": "resources/fonts/Ikon-Crypto.ttf"
+  },
+  "resources/fonts/Ikon-Crypto.woff": {
+    "file": "assets/Ikon-Crypto-06ad2953.woff",
+    "src": "resources/fonts/Ikon-Crypto.woff"
+  },
+  "resources/fonts/Ikon-Crypto.svg": {
+    "file": "assets/Ikon-Crypto-304aec7a.svg",
+    "src": "resources/fonts/Ikon-Crypto.svg"
+  },
+  "resources/fonts/Poppins-Bold.woff": {
+    "file": "assets/Poppins-Bold-28bf02b4.woff",
+    "src": "resources/fonts/Poppins-Bold.woff"
+  },
+  "resources/fonts/Poppins-Bold.eot": {
+    "file": "assets/Poppins-Bold-c47e6241.eot",
+    "src": "resources/fonts/Poppins-Bold.eot"
+  },
+  "resources/fonts/Poppins-Bold.ttf": {
+    "file": "assets/Poppins-Bold-5da7d5e2.ttf",
+    "src": "resources/fonts/Poppins-Bold.ttf"
+  },
+  "resources/fonts/Poppins-Bold.woff2": {
+    "file": "assets/Poppins-Bold-ad24649b.woff2",
+    "src": "resources/fonts/Poppins-Bold.woff2"
+  },
+  "resources/fonts/Poppins-Light.eot": {
+    "file": "assets/Poppins-Light-68f1a507.eot",
+    "src": "resources/fonts/Poppins-Light.eot"
+  },
+  "resources/fonts/Poppins-Light.ttf": {
+    "file": "assets/Poppins-Light-cc9532a9.ttf",
+    "src": "resources/fonts/Poppins-Light.ttf"
+  },
+  "resources/fonts/Poppins-Light.woff": {
+    "file": "assets/Poppins-Light-bacb7531.woff",
+    "src": "resources/fonts/Poppins-Light.woff"
+  },
+  "resources/fonts/Poppins-Light.woff2": {
+    "file": "assets/Poppins-Light-0aadfb39.woff2",
+    "src": "resources/fonts/Poppins-Light.woff2"
+  },
+  "resources/fonts/Poppins-Medium.eot": {
+    "file": "assets/Poppins-Medium-811fe3b3.eot",
+    "src": "resources/fonts/Poppins-Medium.eot"
+  },
+  "resources/fonts/Poppins-Medium.ttf": {
+    "file": "assets/Poppins-Medium-665d2751.ttf",
+    "src": "resources/fonts/Poppins-Medium.ttf"
+  },
+  "resources/fonts/Poppins-Medium.woff": {
+    "file": "assets/Poppins-Medium-6dfdf411.woff",
+    "src": "resources/fonts/Poppins-Medium.woff"
+  },
+  "resources/fonts/Poppins-Medium.woff2": {
+    "file": "assets/Poppins-Medium-ac5bf0ec.woff2",
+    "src": "resources/fonts/Poppins-Medium.woff2"
+  },
+  "resources/fonts/Poppins-Regular.eot": {
+    "file": "assets/Poppins-Regular-43913d59.eot",
+    "src": "resources/fonts/Poppins-Regular.eot"
+  },
+  "resources/fonts/Poppins-Regular.ttf": {
+    "file": "assets/Poppins-Regular-f3c63b87.ttf",
+    "src": "resources/fonts/Poppins-Regular.ttf"
+  },
+  "resources/fonts/Poppins-Regular.woff2": {
+    "file": "assets/Poppins-Regular-6793abf9.woff2",
+    "src": "resources/fonts/Poppins-Regular.woff2"
+  },
+  "resources/fonts/Poppins-Regular.woff": {
+    "file": "assets/Poppins-Regular-ad5fb58a.woff",
+    "src": "resources/fonts/Poppins-Regular.woff"
+  },
+  "resources/fonts/Poppins-SemiBold.eot": {
+    "file": "assets/Poppins-SemiBold-2ac11349.eot",
+    "src": "resources/fonts/Poppins-SemiBold.eot"
+  },
+  "resources/fonts/Poppins-SemiBold.woff": {
+    "file": "assets/Poppins-SemiBold-90751a7a.woff",
+    "src": "resources/fonts/Poppins-SemiBold.woff"
+  },
+  "resources/fonts/Poppins-SemiBold.woff2": {
+    "file": "assets/Poppins-SemiBold-3b4a3185.woff2",
+    "src": "resources/fonts/Poppins-SemiBold.woff2"
+  },
+  "resources/fonts/Quicksand-Bold.eot": {
+    "file": "assets/Quicksand-Bold-bb4f4580.eot",
+    "src": "resources/fonts/Quicksand-Bold.eot"
+  },
+  "resources/fonts/Quicksand-Bold.ttf": {
+    "file": "assets/Quicksand-Bold-5b63ce57.ttf",
+    "src": "resources/fonts/Quicksand-Bold.ttf"
+  },
+  "resources/fonts/Quicksand-Bold.woff": {
+    "file": "assets/Quicksand-Bold-8ab25c3f.woff",
+    "src": "resources/fonts/Quicksand-Bold.woff"
+  },
+  "resources/fonts/Quicksand-Bold.woff2": {
+    "file": "assets/Quicksand-Bold-b9d5d571.woff2",
+    "src": "resources/fonts/Quicksand-Bold.woff2"
+  },
+  "resources/fonts/Quicksand-Light.eot": {
+    "file": "assets/Quicksand-Light-6691b61f.eot",
+    "src": "resources/fonts/Quicksand-Light.eot"
+  },
+  "resources/fonts/Quicksand-Light.ttf": {
+    "file": "assets/Quicksand-Light-2b61888c.ttf",
+    "src": "resources/fonts/Quicksand-Light.ttf"
+  },
+  "resources/fonts/Quicksand-Light.woff": {
+    "file": "assets/Quicksand-Light-f45c1c7e.woff",
+    "src": "resources/fonts/Quicksand-Light.woff"
+  },
+  "resources/fonts/Quicksand-Light.woff2": {
+    "file": "assets/Quicksand-Light-ab6403c7.woff2",
+    "src": "resources/fonts/Quicksand-Light.woff2"
+  },
+  "resources/fonts/Quicksand-Medium.eot": {
+    "file": "assets/Quicksand-Medium-a677e78a.eot",
+    "src": "resources/fonts/Quicksand-Medium.eot"
+  },
+  "resources/fonts/Quicksand-Medium.woff": {
+    "file": "assets/Quicksand-Medium-b3d0d32a.woff",
+    "src": "resources/fonts/Quicksand-Medium.woff"
+  },
+  "resources/fonts/Quicksand-Medium.woff2": {
+    "file": "assets/Quicksand-Medium-d7d3e423.woff2",
+    "src": "resources/fonts/Quicksand-Medium.woff2"
+  },
+  "resources/fonts/Roboto-Bold.eot": {
+    "file": "assets/Roboto-Bold-a6b5ac26.eot",
+    "src": "resources/fonts/Roboto-Bold.eot"
+  },
+  "resources/fonts/Poppins-SemiBold.ttf": {
+    "file": "assets/Poppins-SemiBold-14159ffa.ttf",
+    "src": "resources/fonts/Poppins-SemiBold.ttf"
+  },
+  "resources/fonts/Quicksand-Medium.ttf": {
+    "file": "assets/Quicksand-Medium-cef14d68.ttf",
+    "src": "resources/fonts/Quicksand-Medium.ttf"
+  },
+  "resources/fonts/Roboto-Bold.ttf": {
+    "file": "assets/Roboto-Bold-c9dda83e.ttf",
+    "src": "resources/fonts/Roboto-Bold.ttf"
+  },
+  "resources/fonts/Roboto-Bold.woff": {
+    "file": "assets/Roboto-Bold-8aa340f0.woff",
+    "src": "resources/fonts/Roboto-Bold.woff"
+  },
+  "resources/fonts/Roboto-Bold.woff2": {
+    "file": "assets/Roboto-Bold-4d7dd6e0.woff2",
+    "src": "resources/fonts/Roboto-Bold.woff2"
+  },
+  "resources/fonts/Roboto-Light.eot": {
+    "file": "assets/Roboto-Light-e34811ab.eot",
+    "src": "resources/fonts/Roboto-Light.eot"
+  },
+  "resources/fonts/Roboto-Light.woff": {
+    "file": "assets/Roboto-Light-499d4939.woff",
+    "src": "resources/fonts/Roboto-Light.woff"
+  },
+  "resources/fonts/Roboto-Light.woff2": {
+    "file": "assets/Roboto-Light-b7647a0d.woff2",
+    "src": "resources/fonts/Roboto-Light.woff2"
+  },
+  "resources/fonts/Roboto-Medium.eot": {
+    "file": "assets/Roboto-Medium-e78d9ac0.eot",
+    "src": "resources/fonts/Roboto-Medium.eot"
+  },
+  "resources/fonts/Roboto-Medium.woff": {
+    "file": "assets/Roboto-Medium-e3aa2710.woff",
+    "src": "resources/fonts/Roboto-Medium.woff"
+  },
+  "resources/fonts/Roboto-Medium.woff2": {
+    "file": "assets/Roboto-Medium-998b049e.woff2",
+    "src": "resources/fonts/Roboto-Medium.woff2"
+  },
+  "resources/fonts/Roboto-Regular.eot": {
+    "file": "assets/Roboto-Regular-6cedf381.eot",
+    "src": "resources/fonts/Roboto-Regular.eot"
+  },
+  "resources/fonts/Roboto-Light.ttf": {
+    "file": "assets/Roboto-Light-4ecb801d.ttf",
+    "src": "resources/fonts/Roboto-Light.ttf"
+  },
+  "resources/fonts/Roboto-Regular.woff2": {
+    "file": "assets/Roboto-Regular-8cef0863.woff2",
+    "src": "resources/fonts/Roboto-Regular.woff2"
+  },
+  "resources/fonts/Roboto-Regular.woff": {
+    "file": "assets/Roboto-Regular-18ab5ae4.woff",
+    "src": "resources/fonts/Roboto-Regular.woff"
+  },
+  "resources/fonts/fa-brands-400.eot": {
+    "file": "assets/fa-brands-400-e4299464.eot",
+    "src": "resources/fonts/fa-brands-400.eot"
+  },
+  "resources/fonts/Roboto-Medium.ttf": {
+    "file": "assets/Roboto-Medium-80f74baa.ttf",
+    "src": "resources/fonts/Roboto-Medium.ttf"
+  },
+  "resources/fonts/fa-brands-400.woff": {
+    "file": "assets/fa-brands-400-f9217f66.woff",
+    "src": "resources/fonts/fa-brands-400.woff"
+  },
+  "resources/fonts/Roboto-Regular.ttf": {
+    "file": "assets/Roboto-Regular-b122d9b1.ttf",
+    "src": "resources/fonts/Roboto-Regular.ttf"
+  },
+  "resources/fonts/fa-brands-400.ttf": {
+    "file": "assets/fa-brands-400-cda59d6e.ttf",
+    "src": "resources/fonts/fa-brands-400.ttf"
+  },
+  "resources/fonts/fa-brands-400.svg": {
+    "file": "assets/fa-brands-400-9b3a8965.svg",
+    "src": "resources/fonts/fa-brands-400.svg"
+  },
+  "resources/fonts/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400-8ea87917.woff2",
+    "src": "resources/fonts/fa-brands-400.woff2"
+  },
+  "resources/fonts/fa-regular-400.eot": {
+    "file": "assets/fa-regular-400-79d08806.eot",
+    "src": "resources/fonts/fa-regular-400.eot"
+  },
+  "resources/fonts/fa-regular-400.svg": {
+    "file": "assets/fa-regular-400-62f1f2b9.svg",
+    "src": "resources/fonts/fa-regular-400.svg"
+  },
+  "resources/fonts/fa-regular-400.woff": {
+    "file": "assets/fa-regular-400-cb9e9e69.woff",
+    "src": "resources/fonts/fa-regular-400.woff"
+  },
+  "resources/fonts/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400-e8711bbb.ttf",
+    "src": "resources/fonts/fa-regular-400.ttf"
+  },
+  "resources/fonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400-e42a8844.woff2",
+    "src": "resources/fonts/fa-regular-400.woff2"
+  },
+  "resources/fonts/fa-solid-900.eot": {
+    "file": "assets/fa-solid-900-373c04fd.eot",
+    "src": "resources/fonts/fa-solid-900.eot"
+  },
+  "resources/fonts/fa-solid-900.woff": {
+    "file": "assets/fa-solid-900-3f6d3488.woff",
+    "src": "resources/fonts/fa-solid-900.woff"
+  },
+  "resources/fonts/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900-9834b82a.woff2",
+    "src": "resources/fonts/fa-solid-900.woff2"
+  },
+  "resources/fonts/flexslider-icon.eot": {
+    "file": "assets/flexslider-icon-427c5499.eot",
+    "src": "resources/fonts/flexslider-icon.eot"
+  },
+  "resources/fonts/flexslider-icon.svg": {
+    "file": "assets/flexslider-icon-fe05d413.svg",
+    "src": "resources/fonts/flexslider-icon.svg"
+  },
+  "resources/fonts/flexslider-icon.ttf": {
+    "file": "assets/flexslider-icon-2aeb879c.ttf",
+    "src": "resources/fonts/flexslider-icon.ttf"
+  },
+  "resources/fonts/flexslider-icon.woff": {
+    "file": "assets/flexslider-icon-333fe826.woff",
+    "src": "resources/fonts/flexslider-icon.woff"
+  },
+  "resources/fonts/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900-af639750.ttf",
+    "src": "resources/fonts/fa-solid-900.ttf"
+  },
+  "resources/fonts/themify.eot": {
+    "file": "assets/themify-dff415da.eot",
+    "src": "resources/fonts/themify.eot"
+  },
+  "resources/fonts/themify.ttf": {
+    "file": "assets/themify-350663a4.ttf",
+    "src": "resources/fonts/themify.ttf"
+  },
+  "resources/fonts/themify.svg": {
+    "file": "assets/themify-f7af2e09.svg",
+    "src": "resources/fonts/themify.svg"
+  },
+  "resources/images/app-screens/a.jpg": {
+    "file": "assets/a-5ebd7b01.jpg",
+    "src": "resources/images/app-screens/a.jpg"
+  },
+  "resources/fonts/themify.woff": {
+    "file": "assets/themify-0db5c5a1.woff",
+    "src": "resources/fonts/themify.woff"
+  },
+  "resources/fonts/fa-solid-900.svg": {
+    "file": "assets/fa-solid-900-25630646.svg",
+    "src": "resources/fonts/fa-solid-900.svg"
+  },
+  "resources/images/app-screens/laptop-a.png": {
+    "file": "assets/laptop-a-c8131aae.png",
+    "src": "resources/images/app-screens/laptop-a.png"
+  },
+  "resources/images/app-screens/sc-large-a.jpg": {
+    "file": "assets/sc-large-a-9509897c.jpg",
+    "src": "resources/images/app-screens/sc-large-a.jpg"
+  },
+  "resources/images/app-screens/sc-large-b.jpg": {
+    "file": "assets/sc-large-b-ad8e12dc.jpg",
+    "src": "resources/images/app-screens/sc-large-b.jpg"
+  },
+  "resources/images/app-screens/sc-large-a2.png": {
+    "file": "assets/sc-large-a2-2a5e5fe7.png",
+    "src": "resources/images/app-screens/sc-large-a2.png"
+  },
+  "resources/images/app-screens/sc-large-c.jpg": {
+    "file": "assets/sc-large-c-08f95ea6.jpg",
+    "src": "resources/images/app-screens/sc-large-c.jpg"
+  },
+  "resources/images/app-screens/sc-large-d.jpg": {
+    "file": "assets/sc-large-d-372ddfbc.jpg",
+    "src": "resources/images/app-screens/sc-large-d.jpg"
+  },
+  "resources/images/app-screens/sc-large-e.jpg": {
+    "file": "assets/sc-large-e-25527eb8.jpg",
+    "src": "resources/images/app-screens/sc-large-e.jpg"
+  },
+  "resources/images/app-screens/sc-large-f.png": {
+    "file": "assets/sc-large-f-868bcfd2.png",
+    "src": "resources/images/app-screens/sc-large-f.png"
+  },
+  "resources/images/app-screens/sc-large-g.png": {
+    "file": "assets/sc-large-g-286556a9.png",
+    "src": "resources/images/app-screens/sc-large-g.png"
+  },
+  "resources/images/app-screens/sc-large-h.png": {
+    "file": "assets/sc-large-h-cf68cdd1.png",
+    "src": "resources/images/app-screens/sc-large-h.png"
+  },
+  "resources/images/app-screens/sc-large-i.png": {
+    "file": "assets/sc-large-i-15cc57f8.png",
+    "src": "resources/images/app-screens/sc-large-i.png"
+  },
+  "resources/images/app-screens/sc-large-j-light.png": {
+    "file": "assets/sc-large-j-light-d22bde36.png",
+    "src": "resources/images/app-screens/sc-large-j-light.png"
+  },
+  "resources/images/app-screens/sc-large-j.png": {
+    "file": "assets/sc-large-j-d732a3c1.png",
+    "src": "resources/images/app-screens/sc-large-j.png"
+  },
+  "resources/images/app-screens/sc-large-k.png": {
+    "file": "assets/sc-large-k-4b4e8585.png",
+    "src": "resources/images/app-screens/sc-large-k.png"
+  },
+  "resources/images/app-screens/sc-large-l-dark.png": {
+    "file": "assets/sc-large-l-dark-d0e38731.png",
+    "src": "resources/images/app-screens/sc-large-l-dark.png"
+  },
+  "resources/images/app-screens/sc-large-l-light.png": {
+    "file": "assets/sc-large-l-light-bb151129.png",
+    "src": "resources/images/app-screens/sc-large-l-light.png"
+  },
+  "resources/images/app-screens/sc-large-m-dark.png": {
+    "file": "assets/sc-large-m-dark-53862b69.png",
+    "src": "resources/images/app-screens/sc-large-m-dark.png"
+  },
+  "resources/images/app-screens/sc-large-m-light.png": {
+    "file": "assets/sc-large-m-light-d58842f4.png",
+    "src": "resources/images/app-screens/sc-large-m-light.png"
+  },
+  "resources/images/app-screens/sc-large-n-dark.png": {
+    "file": "assets/sc-large-n-dark-d85f1048.png",
+    "src": "resources/images/app-screens/sc-large-n-dark.png"
+  },
+  "resources/images/app-screens/sc-large-n-light.png": {
+    "file": "assets/sc-large-n-light-c5b45bbf.png",
+    "src": "resources/images/app-screens/sc-large-n-light.png"
+  },
+  "resources/images/app-screens/sc-large-o-dark.png": {
+    "file": "assets/sc-large-o-dark-5fc4d736.png",
+    "src": "resources/images/app-screens/sc-large-o-dark.png"
+  },
+  "resources/images/app-screens/sc-large-p3.png": {
+    "file": "assets/sc-large-p3-00b178e7.png",
+    "src": "resources/images/app-screens/sc-large-p3.png"
+  },
+  "resources/images/app-screens/sc-large-p2.png": {
+    "file": "assets/sc-large-p2-4fe96830.png",
+    "src": "resources/images/app-screens/sc-large-p2.png"
+  },
+  "resources/images/app-screens/sc-large-q.png": {
+    "file": "assets/sc-large-q-0f7872af.png",
+    "src": "resources/images/app-screens/sc-large-q.png"
+  },
+  "resources/images/app-screens/sc-large-q2.png": {
+    "file": "assets/sc-large-q2-352a4334.png",
+    "src": "resources/images/app-screens/sc-large-q2.png"
+  },
+  "resources/images/app-screens/sc-medium-b.png": {
+    "file": "assets/sc-medium-b-789c2156.png",
+    "src": "resources/images/app-screens/sc-medium-b.png"
+  },
+  "resources/images/app-screens/sc-medium-a.png": {
+    "file": "assets/sc-medium-a-22e27672.png",
+    "src": "resources/images/app-screens/sc-medium-a.png"
+  },
+  "resources/images/app-screens/sc-mockup - Copy.png": {
+    "file": "assets/sc-mockup - Copy-9609dc77.png",
+    "src": "resources/images/app-screens/sc-mockup - Copy.png"
+  },
+  "resources/images/app-screens/sc-mockup.png": {
+    "file": "assets/sc-mockup-e8ec6500.png",
+    "src": "resources/images/app-screens/sc-mockup.png"
+  },
+  "resources/images/app-screens/sc-slide-one.jpg": {
+    "file": "assets/sc-slide-one-863f5e2b.jpg",
+    "src": "resources/images/app-screens/sc-slide-one.jpg"
+  },
+  "resources/images/app-screens/sc-slide-three.jpg": {
+    "file": "assets/sc-slide-three-7bd2074e.jpg",
+    "src": "resources/images/app-screens/sc-slide-three.jpg"
+  },
+  "resources/images/app-screens/sc-slide-two.jpg": {
+    "file": "assets/sc-slide-two-94ecab01.jpg",
+    "src": "resources/images/app-screens/sc-slide-two.jpg"
+  },
+  "resources/images/app-screens/sc-large-r.png": {
+    "file": "assets/sc-large-r-cae03663.png",
+    "src": "resources/images/app-screens/sc-large-r.png"
+  },
+  "resources/images/app-screens/sc-large-p.png": {
+    "file": "assets/sc-large-p-babf383b.png",
+    "src": "resources/images/app-screens/sc-large-p.png"
+  },
+  "resources/images/app-screens/sc-small-a.jpg": {
+    "file": "assets/sc-small-a-a9db4843.jpg",
+    "src": "resources/images/app-screens/sc-small-a.jpg"
+  },
+  "resources/images/app-screens/sc-small-b.jpg": {
+    "file": "assets/sc-small-b-038ac6cf.jpg",
+    "src": "resources/images/app-screens/sc-small-b.jpg"
+  },
+  "resources/images/app-screens/sc-small-c.jpg": {
+    "file": "assets/sc-small-c-babe8794.jpg",
+    "src": "resources/images/app-screens/sc-small-c.jpg"
+  },
+  "resources/images/app-screens/sc-small-d.jpg": {
+    "file": "assets/sc-small-d-896a13f9.jpg",
+    "src": "resources/images/app-screens/sc-small-d.jpg"
+  },
+  "resources/images/apps-store.png": {
+    "file": "assets/apps-store-84eb7197.png",
+    "src": "resources/images/apps-store.png"
+  },
+  "resources/images/azalea/doc-a.jpg": {
+    "file": "assets/doc-a-7dee4892.jpg",
+    "src": "resources/images/azalea/doc-a.jpg"
+  },
+  "resources/images/azalea/doc-b.jpg": {
+    "file": "assets/doc-b-9dd5ec32.jpg",
+    "src": "resources/images/azalea/doc-b.jpg"
+  },
+  "resources/images/azalea/doc-c.jpg": {
+    "file": "assets/doc-c-7bdadfda.jpg",
+    "src": "resources/images/azalea/doc-c.jpg"
+  },
+  "resources/images/azalea/doc-d.jpg": {
+    "file": "assets/doc-d-e8b124b0.jpg",
+    "src": "resources/images/azalea/doc-d.jpg"
+  },
+  "resources/images/team/gfx-e.png": {
+    "file": "assets/gfx-e-b299a9a8.png",
+    "src": "resources/images/team/gfx-e.png"
+  },
+  "resources/images/azalea/news-hr-a.jpg": {
+    "file": "assets/news-hr-a-5857dcd6.jpg",
+    "src": "resources/images/azalea/news-hr-a.jpg"
+  },
+  "resources/images/azalea/news-hr-b.jpg": {
+    "file": "assets/news-hr-b-6171b94c.jpg",
+    "src": "resources/images/azalea/news-hr-b.jpg"
+  },
+  "resources/images/azalea/team-a.jpg": {
+    "file": "assets/team-a-32d3a0ff.jpg",
+    "src": "resources/images/azalea/team-a.jpg"
+  },
+  "resources/images/azalea/team-b.jpg": {
+    "file": "assets/team-b-3e09cc8b.jpg",
+    "src": "resources/images/azalea/team-b.jpg"
+  },
+  "resources/images/azalea/team-c.jpg": {
+    "file": "assets/team-c-2e6980e5.jpg",
+    "src": "resources/images/azalea/team-c.jpg"
+  },
+  "resources/images/azalea/team-d.jpg": {
+    "file": "assets/team-d-f1cc8382.jpg",
+    "src": "resources/images/azalea/team-d.jpg"
+  },
+  "resources/images/azalea/team-sq-a.jpg": {
+    "file": "assets/team-sq-a-3263a920.jpg",
+    "src": "resources/images/azalea/team-sq-a.jpg"
+  },
+  "resources/images/azalea/team-sq-b.jpg": {
+    "file": "assets/team-sq-b-45a7a438.jpg",
+    "src": "resources/images/azalea/team-sq-b.jpg"
+  },
+  "resources/images/azalea/team-sq-c.jpg": {
+    "file": "assets/team-sq-c-f9cbf2c4.jpg",
+    "src": "resources/images/azalea/team-sq-c.jpg"
+  },
+  "resources/images/azure/chart-k-dark.png": {
+    "file": "assets/chart-k-dark-0d255146.png",
+    "src": "resources/images/azure/chart-k-dark.png"
+  },
+  "resources/images/azure/chart-l-dark.png": {
+    "file": "assets/chart-l-dark-355b1a48.png",
+    "src": "resources/images/azure/chart-l-dark.png"
+  },
+  "resources/images/azure/gfx-y-dark.png": {
+    "file": "assets/gfx-y-dark-410f7f8e.png",
+    "src": "resources/images/azure/gfx-y-dark.png"
+  },
+  "resources/images/azure/gfx-y-light.png": {
+    "file": "assets/gfx-y-light-aefe7f05.png",
+    "src": "resources/images/azure/gfx-y-light.png"
+  },
+  "resources/images/bg/bg-a.jpg": {
+    "file": "assets/bg-a-7639b474.jpg",
+    "src": "resources/images/bg/bg-a.jpg"
+  },
+  "resources/images/bg/bg-b.jpg": {
+    "file": "assets/bg-b-aa80febb.jpg",
+    "src": "resources/images/bg/bg-b.jpg"
+  },
+  "resources/images/bg/bg-c.jpg": {
+    "file": "assets/bg-c-4ea4485a.jpg",
+    "src": "resources/images/bg/bg-c.jpg"
+  },
+  "resources/images/blockchain/blog/a.jpg": {
+    "file": "assets/a-a58d1d36.jpg",
+    "src": "resources/images/blockchain/blog/a.jpg"
+  },
+  "resources/images/blockchain/blog/b.jpg": {
+    "file": "assets/b-9f1e003c.jpg",
+    "src": "resources/images/blockchain/blog/b.jpg"
+  },
+  "resources/images/blockchain/blog/c.jpg": {
+    "file": "assets/c-7f2b864d.jpg",
+    "src": "resources/images/blockchain/blog/c.jpg"
+  },
+  "resources/images/blockchain/blog/large-a.jpg": {
+    "file": "assets/large-a-369a3d56.jpg",
+    "src": "resources/images/blockchain/blog/large-a.jpg"
+  },
+  "resources/images/blockchain/btc-usdt.png": {
+    "file": "assets/btc-usdt-648c7f98.png",
+    "src": "resources/images/blockchain/btc-usdt.png"
+  },
+  "resources/images/blockchain/btc-usdt2x.png": {
+    "file": "assets/btc-usdt2x-4cbab0c1.png",
+    "src": "resources/images/blockchain/btc-usdt2x.png"
+  },
+  "resources/images/blockchain/eth-bnb.png": {
+    "file": "assets/eth-bnb-fc55db23.png",
+    "src": "resources/images/blockchain/eth-bnb.png"
+  },
+  "resources/images/blockchain/eth-bnb2x.png": {
+    "file": "assets/eth-bnb2x-5704b4d9.png",
+    "src": "resources/images/blockchain/eth-bnb2x.png"
+  },
+  "resources/images/blockchain/icons/avalanche-avax-blockchain.png": {
+    "file": "assets/avalanche-avax-blockchain-1cb0210a.png",
+    "src": "resources/images/blockchain/icons/avalanche-avax-blockchain.png"
+  },
+  "resources/images/blockchain/icons/binanceusd-busd-crypto.png": {
+    "file": "assets/binanceusd-busd-crypto-a305f81e.png",
+    "src": "resources/images/blockchain/icons/binanceusd-busd-crypto.png"
+  },
+  "resources/images/blockchain/icons/bitcoin-crypto.png": {
+    "file": "assets/bitcoin-crypto-c91cde05.png",
+    "src": "resources/images/blockchain/icons/bitcoin-crypto.png"
+  },
+  "resources/images/blockchain/icons/cardano-ada-crypto.png": {
+    "file": "assets/cardano-ada-crypto-02d3f3d4.png",
+    "src": "resources/images/blockchain/icons/cardano-ada-crypto.png"
+  },
+  "resources/images/blockchain/icons/bnb-crypto.png": {
+    "file": "assets/bnb-crypto-f4cbf4d0.png",
+    "src": "resources/images/blockchain/icons/bnb-crypto.png"
+  },
+  "resources/images/blockchain/icons/cronos-cro-blockchain.png": {
+    "file": "assets/cronos-cro-blockchain-f55dade5.png",
+    "src": "resources/images/blockchain/icons/cronos-cro-blockchain.png"
+  },
+  "resources/images/blockchain/icons/dash-crypto.png": {
+    "file": "assets/dash-crypto-c58d4140.png",
+    "src": "resources/images/blockchain/icons/dash-crypto.png"
+  },
+  "resources/images/blockchain/icons/flow-crypto-blockchain.png": {
+    "file": "assets/flow-crypto-blockchain-b205f6ce.png",
+    "src": "resources/images/blockchain/icons/flow-crypto-blockchain.png"
+  },
+  "resources/images/blockchain/icons/litecoin-ltc-crypto.png": {
+    "file": "assets/litecoin-ltc-crypto-5a55b9d7.png",
+    "src": "resources/images/blockchain/icons/litecoin-ltc-crypto.png"
+  },
+  "resources/images/blockchain/icons/polkadot-dot-crypto.png": {
+    "file": "assets/polkadot-dot-crypto-8671f959.png",
+    "src": "resources/images/blockchain/icons/polkadot-dot-crypto.png"
+  },
+  "resources/images/blockchain/icons/polygon-matic.png": {
+    "file": "assets/polygon-matic-74501570.png",
+    "src": "resources/images/blockchain/icons/polygon-matic.png"
+  },
+  "resources/images/blockchain/icons/solana-blockchain-crypto.png": {
+    "file": "assets/solana-blockchain-crypto-78a824c4.png",
+    "src": "resources/images/blockchain/icons/solana-blockchain-crypto.png"
+  },
+  "resources/images/blockchain/icons/tether-usdt-crypto.png": {
+    "file": "assets/tether-usdt-crypto-d9467a34.png",
+    "src": "resources/images/blockchain/icons/tether-usdt-crypto.png"
+  },
+  "resources/images/blockchain/icons/tezos-xtz.png": {
+    "file": "assets/tezos-xtz-b5a8dec9.png",
+    "src": "resources/images/blockchain/icons/tezos-xtz.png"
+  },
+  "resources/images/blockchain/icons/usdcoin-usdc.png": {
+    "file": "assets/usdcoin-usdc-fe67a2f3.png",
+    "src": "resources/images/blockchain/icons/usdcoin-usdc.png"
+  },
+  "resources/images/blockchain/icons/vechain-vet-crypto.png": {
+    "file": "assets/vechain-vet-crypto-9e082af4.png",
+    "src": "resources/images/blockchain/icons/vechain-vet-crypto.png"
+  },
+  "resources/images/blockchain/icons/xrp-crypto-blockchain.png": {
+    "file": "assets/xrp-crypto-blockchain-ece8eb66.png",
+    "src": "resources/images/blockchain/icons/xrp-crypto-blockchain.png"
+  },
+  "resources/images/blog/a.jpg": {
+    "file": "assets/a-7a01d3ae.jpg",
+    "src": "resources/images/blog/a.jpg"
+  },
+  "resources/images/blog/b.jpg": {
+    "file": "assets/b-decd0a57.jpg",
+    "src": "resources/images/blog/b.jpg"
+  },
+  "resources/images/blog/d.jpg": {
+    "file": "assets/d-8fd0041f.jpg",
+    "src": "resources/images/blog/d.jpg"
+  },
+  "resources/images/blog/c.jpg": {
+    "file": "assets/c-d1aaa035.jpg",
+    "src": "resources/images/blog/c.jpg"
+  },
+  "resources/images/blog/e.jpg": {
+    "file": "assets/e-36f9267f.jpg",
+    "src": "resources/images/blog/e.jpg"
+  },
+  "resources/images/blog/f.jpg": {
+    "file": "assets/f-b236c596.jpg",
+    "src": "resources/images/blog/f.jpg"
+  },
+  "resources/images/blog/large-a.jpg": {
+    "file": "assets/large-a-64a50bcb.jpg",
+    "src": "resources/images/blog/large-a.jpg"
+  },
+  "resources/images/blur-b.png": {
+    "file": "assets/blur-b-a62215e2.png",
+    "src": "resources/images/blur-b.png"
+  },
+  "resources/images/blur-a.png": {
+    "file": "assets/blur-a-0ee5cd91.png",
+    "src": "resources/images/blur-a.png"
+  },
+  "resources/images/blur-c.png": {
+    "file": "assets/blur-c-1e792312.png",
+    "src": "resources/images/blur-c.png"
+  },
+  "resources/images/blockchain/video/a.jpg": {
+    "file": "assets/a-ef28b853.jpg",
+    "src": "resources/images/blockchain/video/a.jpg"
+  },
+  "resources/images/chart/a-dark.png": {
+    "file": "assets/a-dark-36aade5e.png",
+    "src": "resources/images/chart/a-dark.png"
+  },
+  "resources/images/chart/a-light.png": {
+    "file": "assets/a-light-9df89a70.png",
+    "src": "resources/images/chart/a-light.png"
+  },
+  "resources/images/chart/b-dark.png": {
+    "file": "assets/b-dark-bc742413.png",
+    "src": "resources/images/chart/b-dark.png"
+  },
+  "resources/images/chart/b-light.png": {
+    "file": "assets/b-light-9790d63f.png",
+    "src": "resources/images/chart/b-light.png"
+  },
+  "resources/images/chart/c.png": {
+    "file": "assets/c-c7b6cd58.png",
+    "src": "resources/images/chart/c.png"
+  },
+  "resources/images/chart/d.png": {
+    "file": "assets/d-30aea555.png",
+    "src": "resources/images/chart/d.png"
+  },
+  "resources/images/chart/e-dark.png": {
+    "file": "assets/e-dark-33d98cb8.png",
+    "src": "resources/images/chart/e-dark.png"
+  },
+  "resources/images/chart/e-light.png": {
+    "file": "assets/e-light-62490fea.png",
+    "src": "resources/images/chart/e-light.png"
+  },
+  "resources/images/chart/f-dark.png": {
+    "file": "assets/f-dark-a681e0cf.png",
+    "src": "resources/images/chart/f-dark.png"
+  },
+  "resources/images/chart/f-light.png": {
+    "file": "assets/f-light-04bbb019.png",
+    "src": "resources/images/chart/f-light.png"
+  },
+  "resources/images/chart/g-dark.png": {
+    "file": "assets/g-dark-cb5084e7.png",
+    "src": "resources/images/chart/g-dark.png"
+  },
+  "resources/images/chart/g-light.png": {
+    "file": "assets/g-light-3c30ebef.png",
+    "src": "resources/images/chart/g-light.png"
+  },
+  "resources/images/chart/h-dark.png": {
+    "file": "assets/h-dark-1aeecea2.png",
+    "src": "resources/images/chart/h-dark.png"
+  },
+  "resources/images/chart/h-light.png": {
+    "file": "assets/h-light-a3f64577.png",
+    "src": "resources/images/chart/h-light.png"
+  },
+  "resources/images/chart/i-dark.png": {
+    "file": "assets/i-dark-a860b45b.png",
+    "src": "resources/images/chart/i-dark.png"
+  },
+  "resources/images/chart/i-light.png": {
+    "file": "assets/i-light-b6939473.png",
+    "src": "resources/images/chart/i-light.png"
+  },
+  "resources/images/chart/j-dark.png": {
+    "file": "assets/j-dark-434f99e4.png",
+    "src": "resources/images/chart/j-dark.png"
+  },
+  "resources/images/chart/j-light.png": {
+    "file": "assets/j-light-40378b44.png",
+    "src": "resources/images/chart/j-light.png"
+  },
+  "resources/images/chart/k-dark.png": {
+    "file": "assets/k-dark-ef9e2b17.png",
+    "src": "resources/images/chart/k-dark.png"
+  },
+  "resources/images/chart/l-dark.png": {
+    "file": "assets/l-dark-cf331b63.png",
+    "src": "resources/images/chart/l-dark.png"
+  },
+  "resources/images/chart/l-light.png": {
+    "file": "assets/l-light-a6f8907f.png",
+    "src": "resources/images/chart/l-light.png"
+  },
+  "resources/images/light/e-light.png": {
+    "file": "assets/e-dark-a774eafe.png",
+    "src": "resources/images/light/e-light.png"
+  },
+  "resources/images/light/f-light.png": {
+    "file": "assets/f-dark-952a2ff9.png",
+    "src": "resources/images/light/f-light.png"
+  },
+  "resources/images/dark/gfx-d-dark.png": {
+    "file": "assets/gfx-d-dark-33a1de9c.png",
+    "src": "resources/images/dark/gfx-d-dark.png"
+  },
+  "resources/images/dark/gfx-z-a.png": {
+    "file": "assets/gfx-z-a-9e4274cd.png",
+    "src": "resources/images/dark/gfx-z-a.png"
+  },
+  "resources/images/dark/gfx-z-b.png": {
+    "file": "assets/gfx-z-b-9711bddf.png",
+    "src": "resources/images/dark/gfx-z-b.png"
+  },
+  "resources/images/dark/gfx-z-c.png": {
+    "file": "assets/gfx-z-c-0c3aedc5.png",
+    "src": "resources/images/dark/gfx-z-c.png"
+  },
+  "resources/images/doc-a.jpg": {
+    "file": "assets/doc-a-df7f1a5c.jpg",
+    "src": "resources/images/doc-a.jpg"
+  },
+  "resources/images/doc-a.png": {
+    "file": "assets/doc-a-cce092d1.png",
+    "src": "resources/images/doc-a.png"
+  },
+  "resources/images/docs/alt-sm-a.png": {
+    "file": "assets/alt-sm-a-5f98dae9.png",
+    "src": "resources/images/docs/alt-sm-a.png"
+  },
+  "resources/images/docs/alt-sm-b.png": {
+    "file": "assets/alt-sm-b-8115ea06.png",
+    "src": "resources/images/docs/alt-sm-b.png"
+  },
+  "resources/images/docs/alt-sm-c.png": {
+    "file": "assets/alt-sm-c-d4a7cd80.png",
+    "src": "resources/images/docs/alt-sm-c.png"
+  },
+  "resources/images/docs/alt-sm-d.png": {
+    "file": "assets/alt-sm-d-dc6de5a8.png",
+    "src": "resources/images/docs/alt-sm-d.png"
+  },
+  "resources/images/docs/cover-a-color.png": {
+    "file": "assets/cover-a-color-c3be5279.png",
+    "src": "resources/images/docs/cover-a-color.png"
+  },
+  "resources/images/docs/cover-a-white.png": {
+    "file": "assets/cover-a-white-cb93fba1.png",
+    "src": "resources/images/docs/cover-a-white.png"
+  },
+  "resources/images/docs/sm-a.jpg": {
+    "file": "assets/sm-a-c109701b.jpg",
+    "src": "resources/images/docs/sm-a.jpg"
+  },
+  "resources/images/docs/sm-b.jpg": {
+    "file": "assets/sm-b-a5638827.jpg",
+    "src": "resources/images/docs/sm-b.jpg"
+  },
+  "resources/images/docs/sm-c.jpg": {
+    "file": "assets/sm-c-fd871f93.jpg",
+    "src": "resources/images/docs/sm-c.jpg"
+  },
+  "resources/images/docs/sm-d.jpg": {
+    "file": "assets/sm-d-e933bc23.jpg",
+    "src": "resources/images/docs/sm-d.jpg"
+  },
+  "resources/images/dot-a.png": {
+    "file": "assets/dot-a-052e5e15.png",
+    "src": "resources/images/dot-a.png"
+  },
+  "resources/images/dot-b.png": {
+    "file": "assets/dot-b-e5b75322.png",
+    "src": "resources/images/dot-b.png"
+  },
+  "resources/images/dot-c-azalea.png": {
+    "file": "assets/dot-c-azalea-9c8ec573.png",
+    "src": "resources/images/dot-c-azalea.png"
+  },
+  "resources/images/dot-c.png": {
+    "file": "assets/dot-c-e26b5761.png",
+    "src": "resources/images/dot-c.png"
+  },
+  "resources/images/favicon.png": {
+    "file": "assets/favicon-2e6b38a5.png",
+    "src": "resources/images/favicon.png"
+  },
+  "resources/images/flag-br.jpg": {
+    "file": "assets/flag-br-13b50775.jpg",
+    "src": "resources/images/flag-br.jpg"
+  },
+  "resources/images/flag-ch.jpg": {
+    "file": "assets/flag-ch-69bae58b.jpg",
+    "src": "resources/images/flag-ch.jpg"
+  },
+  "resources/images/flag-en.jpg": {
+    "file": "assets/flag-en-3bfa0442.jpg",
+    "src": "resources/images/flag-en.jpg"
+  },
+  "resources/images/flag-fr.jpg": {
+    "file": "assets/flag-fr-dc4acce5.jpg",
+    "src": "resources/images/flag-fr.jpg"
+  },
+  "resources/images/gfx/circle-a.png": {
+    "file": "assets/circle-a-e713ef5e.png",
+    "src": "resources/images/gfx/circle-a.png"
+  },
+  "resources/images/gfx/gfx-a.png": {
+    "file": "assets/gfx-a-c550a3fa.png",
+    "src": "resources/images/gfx/gfx-a.png"
+  },
+  "resources/images/gfx/gfx-b-small.png": {
+    "file": "assets/gfx-b-small-4f0d5e2b.png",
+    "src": "resources/images/gfx/gfx-b-small.png"
+  },
+  "resources/images/gfx/gfx-b.png": {
+    "file": "assets/gfx-b-a345d0d4.png",
+    "src": "resources/images/gfx/gfx-b.png"
+  },
+  "resources/images/gfx/gfx-c.png": {
+    "file": "assets/gfx-c-0197a014.png",
+    "src": "resources/images/gfx/gfx-c.png"
+  },
+  "resources/images/gfx/gfx-d.png": {
+    "file": "assets/gfx-d-bf7b929e.png",
+    "src": "resources/images/gfx/gfx-d.png"
+  },
+  "resources/images/gfx/gfx-e--.png": {
+    "file": "assets/gfx-e---c1c44cd0.png",
+    "src": "resources/images/gfx/gfx-e--.png"
+  },
+  "resources/images/gfx/gfx-e.png": {
+    "file": "assets/gfx-e-5c4449ad.png",
+    "src": "resources/images/gfx/gfx-e.png"
+  },
+  "resources/images/gfx/gfx-f-light.png": {
+    "file": "assets/gfx-f-light-53142f7a.png",
+    "src": "resources/images/gfx/gfx-f-light.png"
+  },
+  "resources/images/gfx/gfx-f.png": {
+    "file": "assets/gfx-f-af0482ea.png",
+    "src": "resources/images/gfx/gfx-f.png"
+  },
+  "resources/images/gfx/gfx-h.png": {
+    "file": "assets/gfx-h-ce004526.png",
+    "src": "resources/images/gfx/gfx-h.png"
+  },
+  "resources/images/gfx/gfx-i.png": {
+    "file": "assets/gfx-i-feb0d6d5.png",
+    "src": "resources/images/gfx/gfx-i.png"
+  },
+  "resources/images/gfx/gfx-j-light.png": {
+    "file": "assets/gfx-j-light-3a24a775.png",
+    "src": "resources/images/gfx/gfx-j-light.png"
+  },
+  "resources/images/gfx/gfx-j.png": {
+    "file": "assets/gfx-j-b26394e9.png",
+    "src": "resources/images/gfx/gfx-j.png"
+  },
+  "resources/images/gfx/gfx-k.png": {
+    "file": "assets/gfx-k-1fc7e74d.png",
+    "src": "resources/images/gfx/gfx-k.png"
+  },
+  "resources/images/gfx/gfx-l.png": {
+    "file": "assets/gfx-l-d083a436.png",
+    "src": "resources/images/gfx/gfx-l.png"
+  },
+  "resources/images/gfx/gfx-m.png": {
+    "file": "assets/gfx-m-5e44b705.png",
+    "src": "resources/images/gfx/gfx-m.png"
+  },
+  "resources/images/gfx/gfx-n.png": {
+    "file": "assets/gfx-n-e4072767.png",
+    "src": "resources/images/gfx/gfx-n.png"
+  },
+  "resources/images/gfx/gfx-p-light.png": {
+    "file": "assets/gfx-p-light-24f4c54b.png",
+    "src": "resources/images/gfx/gfx-p-light.png"
+  },
+  "resources/images/gfx/gfx-p.png": {
+    "file": "assets/gfx-p-828117a6.png",
+    "src": "resources/images/gfx/gfx-p.png"
+  },
+  "resources/images/gfx/gfx-q-light.png": {
+    "file": "assets/gfx-q-light-cccdde0f.png",
+    "src": "resources/images/gfx/gfx-q-light.png"
+  },
+  "resources/images/gfx/gfx-q.png": {
+    "file": "assets/gfx-q-0f1fc019.png",
+    "src": "resources/images/gfx/gfx-q.png"
+  },
+  "resources/images/gfx/gfx-r.png": {
+    "file": "assets/gfx-r-723aa53f.png",
+    "src": "resources/images/gfx/gfx-r.png"
+  },
+  "resources/images/gfx/gfx-s-dark.png": {
+    "file": "assets/gfx-s-dark-6b78f733.png",
+    "src": "resources/images/gfx/gfx-s-dark.png"
+  },
+  "resources/images/mask-a.svg": {
+    "file": "assets/mask-a-06d3aaf6.svg",
+    "src": "resources/images/mask-a.svg"
+  },
+  "resources/images/mask-a-md.svg": {
+    "file": "assets/mask-a-md-d04d9ea4.svg",
+    "src": "resources/images/mask-a-md.svg"
+  },
+  "resources/images/mask-a-dark.svg": {
+    "file": "assets/mask-a-dark-b241072c.svg",
+    "src": "resources/images/mask-a-dark.svg"
+  },
+  "resources/images/mask-b.svg": {
+    "file": "assets/mask-b-6666558a.svg",
+    "src": "resources/images/mask-b.svg"
+  },
+  "resources/images/mask-c.svg": {
+    "file": "assets/mask-c-d05b7dfd.svg",
+    "src": "resources/images/mask-c.svg"
+  },
+  "resources/images/mask-c-light.svg": {
+    "file": "assets/mask-c-light-ba3cad00.svg",
+    "src": "resources/images/mask-c-light.svg"
+  },
+  "resources/images/mask-c-dark.svg": {
+    "file": "assets/mask-c-dark-b38b435b.svg",
+    "src": "resources/images/mask-c-dark.svg"
+  },
+  "resources/images/mask-d.svg": {
+    "file": "assets/mask-d-099bb009.svg",
+    "src": "resources/images/mask-d.svg"
+  },
+  "resources/images/mask-d2.svg": {
+    "file": "assets/mask-d2-dc9df97a.svg",
+    "src": "resources/images/mask-d2.svg"
+  },
+  "resources/images/mask-e.svg": {
+    "file": "assets/mask-e-d13e6aa6.svg",
+    "src": "resources/images/mask-e.svg"
+  },
+  "resources/images/mask-f.svg": {
+    "file": "assets/mask-f-bd180472.svg",
+    "src": "resources/images/mask-f.svg"
+  },
+  "resources/images/mask-f-footer.svg": {
+    "file": "assets/mask-f-footer-67cef49a.svg",
+    "src": "resources/images/mask-f-footer.svg"
+  },
+  "resources/images/shape-a.png": {
+    "file": "assets/shape-a-3df16662.png",
+    "src": "resources/images/shape-a.png"
+  },
+  "resources/images/shape-b-sm.png": {
+    "file": "assets/shape-a-sm-98a6e39a.png",
+    "src": "resources/images/shape-b-sm.png"
+  },
+  "resources/images/shape-b.png": {
+    "file": "assets/shape-b-3065f687.png",
+    "src": "resources/images/shape-b.png"
+  },
+  "resources/images/shape-c.png": {
+    "file": "assets/shape-c-fe276c0a.png",
+    "src": "resources/images/shape-c.png"
+  },
+  "resources/images/shape-c-sm.png": {
+    "file": "assets/shape-c-sm-558615b3.png",
+    "src": "resources/images/shape-c-sm.png"
+  },
+  "resources/images/shape-d.png": {
+    "file": "assets/shape-d-ffa7fea5.png",
+    "src": "resources/images/shape-d.png"
+  },
+  "resources/images/shape-d-sm.png": {
+    "file": "assets/shape-d-sm-704e70e2.png",
+    "src": "resources/images/shape-d-sm.png"
+  },
+  "resources/images/shape-e.png": {
+    "file": "assets/shape-e-940ada21.png",
+    "src": "resources/images/shape-e.png"
+  },
+  "resources/images/shape-e-sm.png": {
+    "file": "assets/shape-e-sm-eb67f4d5.png",
+    "src": "resources/images/shape-e-sm.png"
+  },
+  "resources/images/shape-f.png": {
+    "file": "assets/shape-f-49779e37.png",
+    "src": "resources/images/shape-f.png"
+  },
+  "resources/images/shape-f-sm.png": {
+    "file": "assets/shape-f-sm-8f621ca0.png",
+    "src": "resources/images/shape-f-sm.png"
+  },
+  "resources/images/shape-h.png": {
+    "file": "assets/shape-h-d3892ee1.png",
+    "src": "resources/images/shape-h.png"
+  },
+  "resources/images/shape-h-sm.png": {
+    "file": "assets/shape-h-sm-b2a7b72d.png",
+    "src": "resources/images/shape-h-sm.png"
+  },
+  "resources/images/shape-i.png": {
+    "file": "assets/shape-i-ddbcbc59.png",
+    "src": "resources/images/shape-i.png"
+  },
+  "resources/images/shape-g-sm.png": {
+    "file": "assets/shape-g-sm-dd4028cd.png",
+    "src": "resources/images/shape-g-sm.png"
+  },
+  "resources/images/shape-i-sm.png": {
+    "file": "assets/shape-i-sm-30008782.png",
+    "src": "resources/images/shape-i-sm.png"
+  },
+  "resources/images/shape-m.png": {
+    "file": "assets/shape-m-5e72ba9c.png",
+    "src": "resources/images/shape-m.png"
+  },
+  "resources/images/shape-n.png": {
+    "file": "assets/shape-n-d3ff8685.png",
+    "src": "resources/images/shape-n.png"
+  },
+  "resources/images/shape-g.png": {
+    "file": "assets/shape-g-618481f8.png",
+    "src": "resources/images/shape-g.png"
+  },
+  "resources/images/shape-p.png": {
+    "file": "assets/shape-p-5c657676.png",
+    "src": "resources/images/shape-p.png"
+  },
+  "resources/images/shape-q.png": {
+    "file": "assets/shape-q-bc0e9523.png",
+    "src": "resources/images/shape-q.png"
+  },
+  "resources/images/shape-r.png": {
+    "file": "assets/shape-r-18a165bc.png",
+    "src": "resources/images/shape-r.png"
+  },
+  "resources/images/shape-o.png": {
+    "file": "assets/shape-o-d7d1ece6.png",
+    "src": "resources/images/shape-o.png"
+  },
+  "resources/images/shape-s.png": {
+    "file": "assets/shape-s-4a1d9725.png",
+    "src": "resources/images/shape-s.png"
+  },
+  "resources/images/shape-t.png": {
+    "file": "assets/shape-t-005f812d.png",
+    "src": "resources/images/shape-t.png"
+  },
+  "resources/images/shape-u.png": {
+    "file": "assets/shape-u-5467dea0.png",
+    "src": "resources/images/shape-u.png"
+  },
+  "resources/images/shape-s-sm.png": {
+    "file": "assets/shape-s-sm-eabfc6ba.png",
+    "src": "resources/images/shape-s-sm.png"
+  },
+  "resources/images/shape-v.png": {
+    "file": "assets/shape-v-71db0abf.png",
+    "src": "resources/images/shape-v.png"
+  },
+  "resources/images/shape-w.png": {
+    "file": "assets/shape-w-355fe7e0.png",
+    "src": "resources/images/shape-w.png"
+  },
+  "resources/images/shape-x.png": {
+    "file": "assets/shape-x-e041c6f2.png",
+    "src": "resources/images/shape-x.png"
+  },
+  "resources/images/shape-x-2.png": {
+    "file": "assets/shape-x-2-270c87ad.png",
+    "src": "resources/images/shape-x-2.png"
+  },
+  "resources/images/shape-x-3.png": {
+    "file": "assets/shape-x-3-df761719.png",
+    "src": "resources/images/shape-x-3.png"
+  },
+  "resources/images/shape-y.png": {
+    "file": "assets/shape-y-2128ad1b.png",
+    "src": "resources/images/shape-y.png"
+  },
+  "resources/images/shape-a2.png": {
+    "file": "assets/shape-a2-7448fc0f.png",
+    "src": "resources/images/shape-a2.png"
+  },
+  "resources/images/shape-z3.png": {
+    "file": "assets/shape-z3-9b51e43a.png",
+    "src": "resources/images/shape-z3.png"
+  },
+  "resources/images/shape-z2.png": {
+    "file": "assets/shape-z2-e6b2db32.png",
+    "src": "resources/images/shape-z2.png"
+  },
+  "resources/images/shape-z.png": {
+    "file": "assets/shape-z-88301eb9.png",
+    "src": "resources/images/shape-z.png"
+  },
+  "resources/images/shape-z4.png": {
+    "file": "assets/shape-z4-d39b1640.png",
+    "src": "resources/images/shape-z4.png"
+  },
+  "resources/images/shape-z6.png": {
+    "file": "assets/shape-z6-3c26dd89.png",
+    "src": "resources/images/shape-z6.png"
+  },
+  "resources/images/shape-z6-sm.png": {
+    "file": "assets/shape-z6-sm-eb19c718.png",
+    "src": "resources/images/shape-z6-sm.png"
+  },
+  "resources/images/shape-z7.png": {
+    "file": "assets/shape-z7-9c14e497.png",
+    "src": "resources/images/shape-z7.png"
+  },
+  "resources/images/ui-shape-a.svg": {
+    "file": "assets/ui-shape-a-0c0b1add.svg",
+    "src": "resources/images/ui-shape-a.svg"
+  },
+  "resources/images/ui-shape-b.svg": {
+    "file": "assets/ui-shape-b-d66149fd.svg",
+    "src": "resources/images/ui-shape-b.svg"
+  },
+  "resources/images/ui-shape-light-a.svg": {
+    "file": "assets/ui-shape-light-a-794a9841.svg",
+    "src": "resources/images/ui-shape-light-a.svg"
+  },
+  "resources/images/ui-shape-light-b.svg": {
+    "file": "assets/ui-shape-light-b-73b1cfed.svg",
+    "src": "resources/images/ui-shape-light-b.svg"
+  },
+  "resources/images/mask-line-a.png": {
+    "file": "assets/mask-line-a-cc3a0f63.png",
+    "src": "resources/images/mask-line-a.png"
+  },
+  "resources/images/mask-line-b.png": {
+    "file": "assets/mask-line-b-1152c94f.png",
+    "src": "resources/images/mask-line-b.png"
+  },
+  "resources/images/mask-line-c.png": {
+    "file": "assets/mask-line-c-eccda6a7.png",
+    "src": "resources/images/mask-line-c.png"
+  },
+  "resources/images/mask-line-d.png": {
+    "file": "assets/mask-line-d-6cee25d5.png",
+    "src": "resources/images/mask-line-d.png"
+  },
+  "resources/images/polygon-line-a.png": {
+    "file": "assets/polygon-line-a-5173bf96.png",
+    "src": "resources/images/polygon-line-a.png"
+  },
+  "resources/images/polygon-line-b.png": {
+    "file": "assets/polygon-line-b-460c4776.png",
+    "src": "resources/images/polygon-line-b.png"
+  },
+  "resources/images/polygon-line-a-fill.png": {
+    "file": "assets/polygon-line-a-fill-fd98ee60.png",
+    "src": "resources/images/polygon-line-a-fill.png"
+  },
+  "resources/images/polygon-line-c.png": {
+    "file": "assets/polygon-line-c-21d79e4d.png",
+    "src": "resources/images/polygon-line-c.png"
+  },
+  "resources/images/polygon-fill.png": {
+    "file": "assets/polygon-fill-72e2279c.png",
+    "src": "resources/images/polygon-fill.png"
+  },
+  "resources/images/ui-mask-s14.png": {
+    "file": "assets/ui-mask-s14-a180625f.png",
+    "src": "resources/images/ui-mask-s14.png"
+  },
+  "resources/images/ui-mask-s13.png": {
+    "file": "assets/ui-mask-s13-85f2e205.png",
+    "src": "resources/images/ui-mask-s13.png"
+  },
+  "resources/images/ui-mask-s15.png": {
+    "file": "assets/ui-mask-s15-eea447a8.png",
+    "src": "resources/images/ui-mask-s15.png"
+  },
+  "resources/images/ui-mask-s16.png": {
+    "file": "assets/ui-mask-s16-c7cadebe.png",
+    "src": "resources/images/ui-mask-s16.png"
+  },
+  "resources/images/ui-mask-s17.png": {
+    "file": "assets/ui-mask-s17-4930259d.png",
+    "src": "resources/images/ui-mask-s17.png"
+  },
+  "resources/images/line.png": {
+    "file": "assets/line-b5ffa0f7.png",
+    "src": "resources/images/line.png"
+  },
+  "resources/images/hexagon.png": {
+    "file": "assets/hexagon-2e52d41e.png",
+    "src": "resources/images/hexagon.png"
+  },
+  "resources/images/light-ix.png": {
+    "file": "assets/light-ix-40302b35.png",
+    "src": "resources/images/light-ix.png"
+  },
+  "resources/images/polygon-a-dark.png": {
+    "file": "assets/polygon-a-dark-246bd129.png",
+    "src": "resources/images/polygon-a-dark.png"
+  },
+  "resources/images/polygon-a-light.png": {
+    "file": "assets/polygon-a-light-e7571a7d.png",
+    "src": "resources/images/polygon-a-light.png"
+  },
+  "resources/images/owl.video.play.png": {
+    "file": "assets/owl.video.play-04360456.png",
+    "src": "resources/images/owl.video.play.png"
+  },
+  "resources/images/gfx/gfx-s-light.png": {
+    "file": "assets/gfx-s-light-23e8345c.png",
+    "src": "resources/images/gfx/gfx-s-light.png"
+  },
+  "resources/images/gfx/gfx-sm-a.png": {
+    "file": "assets/gfx-sm-a-e0124406.png",
+    "src": "resources/images/gfx/gfx-sm-a.png"
+  },
+  "resources/images/gfx/gfx-sm-b.png": {
+    "file": "assets/gfx-sm-b-b6a9cedc.png",
+    "src": "resources/images/gfx/gfx-sm-b.png"
+  },
+  "resources/images/ovm-img-avatars.png": {
+    "file": "assets/ovm-img-avatars-b8131f37.png",
+    "src": "resources/images/ovm-img-avatars.png"
+  },
+  "resources/images/gfx/gfx-sm-c.png": {
+    "file": "assets/gfx-sm-c-f449c0c8.png",
+    "src": "resources/images/gfx/gfx-sm-c.png"
+  },
+  "resources/images/gfx/gfx-sm-d.png": {
+    "file": "assets/gfx-sm-d-8c553df4.png",
+    "src": "resources/images/gfx/gfx-sm-d.png"
+  },
+  "resources/images/gfx/gfx-sm-e-light.png": {
+    "file": "assets/gfx-sm-e-light-562e1308.png",
+    "src": "resources/images/gfx/gfx-sm-e-light.png"
+  },
+  "resources/images/gfx/gfx-sm-e.png": {
+    "file": "assets/gfx-sm-e-8af8b275.png",
+    "src": "resources/images/gfx/gfx-sm-e.png"
+  },
+  "resources/images/gfx/gfx-sm-f-light.png": {
+    "file": "assets/gfx-sm-f-light-6611f757.png",
+    "src": "resources/images/gfx/gfx-sm-f-light.png"
+  },
+  "resources/images/gfx/gfx-sm-g-light.png": {
+    "file": "assets/gfx-sm-g-light-c1aa442f.png",
+    "src": "resources/images/gfx/gfx-sm-g-light.png"
+  },
+  "resources/images/gfx/gfx-sm-f.png": {
+    "file": "assets/gfx-sm-f-14e512e0.png",
+    "src": "resources/images/gfx/gfx-sm-f.png"
+  },
+  "resources/images/gfx/gfx-sm-g.png": {
+    "file": "assets/gfx-sm-g-53d4ade7.png",
+    "src": "resources/images/gfx/gfx-sm-g.png"
+  },
+  "resources/images/gfx/gfx-t-light.png": {
+    "file": "assets/gfx-t-light-d0b02edb.png",
+    "src": "resources/images/gfx/gfx-t-light.png"
+  },
+  "resources/images/gfx/gfx-t-dark.png": {
+    "file": "assets/gfx-t-dark-73b5947b.png",
+    "src": "resources/images/gfx/gfx-t-dark.png"
+  },
+  "resources/images/gfx/gfx-u-light.png": {
+    "file": "assets/gfx-u-light-8f9dbcd0.png",
+    "src": "resources/images/gfx/gfx-u-light.png"
+  },
+  "resources/images/gfx/gfx-u-dark.png": {
+    "file": "assets/gfx-u-dark-28c41948.png",
+    "src": "resources/images/gfx/gfx-u-dark.png"
+  },
+  "resources/images/gfx/gfx-v.png": {
+    "file": "assets/gfx-v-01ccbd1e.png",
+    "src": "resources/images/gfx/gfx-v.png"
+  },
+  "resources/images/gfx/gfx-w-dark.png": {
+    "file": "assets/gfx-w-dark-b68062f0.png",
+    "src": "resources/images/gfx/gfx-w-dark.png"
+  },
+  "resources/images/gfx/gfx-w-light.png": {
+    "file": "assets/gfx-w-light-e2b024e0.png",
+    "src": "resources/images/gfx/gfx-w-light.png"
+  },
+  "resources/images/gfx/gfx-x-dark.png": {
+    "file": "assets/gfx-x-dark-d1233d36.png",
+    "src": "resources/images/gfx/gfx-x-dark.png"
+  },
+  "resources/images/gfx/gfx-x-light.png": {
+    "file": "assets/gfx-x-light-0cbf5862.png",
+    "src": "resources/images/gfx/gfx-x-light.png"
+  },
+  "resources/images/gfx/gfx-y.png": {
+    "file": "assets/gfx-y-836f0b44.png",
+    "src": "resources/images/gfx/gfx-y.png"
+  },
+  "resources/images/gfx/gfx-z-a-dark.png": {
+    "file": "assets/gfx-z-a-dark-732a23fc.png",
+    "src": "resources/images/gfx/gfx-z-a-dark.png"
+  },
+  "resources/images/gfx/gfx-z-a.png": {
+    "file": "assets/gfx-z-a-1584b193.png",
+    "src": "resources/images/gfx/gfx-z-a.png"
+  },
+  "resources/images/gfx/gfx-z-b-dark.png": {
+    "file": "assets/gfx-z-b-dark-20a5cff0.png",
+    "src": "resources/images/gfx/gfx-z-b-dark.png"
+  },
+  "resources/images/gfx/gfx-z-b.png": {
+    "file": "assets/gfx-z-b-d3d6c61c.png",
+    "src": "resources/images/gfx/gfx-z-b.png"
+  },
+  "resources/images/gfx/gfx-z-c-dark.png": {
+    "file": "assets/gfx-z-c-dark-6f20980c.png",
+    "src": "resources/images/gfx/gfx-z-c-dark.png"
+  },
+  "resources/images/gfx/gfx-z-c.png": {
+    "file": "assets/gfx-z-c-28d994d5.png",
+    "src": "resources/images/gfx/gfx-z-c.png"
+  },
+  "resources/images/gfx/gfx-z-d.png": {
+    "file": "assets/gfx-z-d-3212976f.png",
+    "src": "resources/images/gfx/gfx-z-d.png"
+  },
+  "resources/images/gfx/gfx-z-e.png": {
+    "file": "assets/gfx-z-e-1211b026.png",
+    "src": "resources/images/gfx/gfx-z-e.png"
+  },
+  "resources/images/gfx/gfx-z-f.png": {
+    "file": "assets/gfx-z-f-b73d4162.png",
+    "src": "resources/images/gfx/gfx-z-f.png"
+  },
+  "resources/images/gfx/gfx-z-g.png": {
+    "file": "assets/gfx-z-g-76de3400.png",
+    "src": "resources/images/gfx/gfx-z-g.png"
+  },
+  "resources/images/gfx/gfx-z-i.png": {
+    "file": "assets/gfx-z-i-4377fbeb.png",
+    "src": "resources/images/gfx/gfx-z-i.png"
+  },
+  "resources/images/gfx/gfx-z-j.png": {
+    "file": "assets/gfx-z-j-5fbb9904.png",
+    "src": "resources/images/gfx/gfx-z-j.png"
+  },
+  "resources/images/gfx/gfx-z-k.png": {
+    "file": "assets/gfx-z-k-1370a481.png",
+    "src": "resources/images/gfx/gfx-z-k.png"
+  },
+  "resources/images/gfx/gfx-z-l.png": {
+    "file": "assets/gfx-z-l-3df9db44.png",
+    "src": "resources/images/gfx/gfx-z-l.png"
+  },
+  "resources/images/gfx/gfx-z-m.png": {
+    "file": "assets/gfx-z-m-f1c24194.png",
+    "src": "resources/images/gfx/gfx-z-m.png"
+  },
+  "resources/images/gfx/polygon-a.png": {
+    "file": "assets/polygon-a-dab61c98.png",
+    "src": "resources/images/gfx/polygon-a.png"
+  },
+  "resources/images/gfx/triangle-a.png": {
+    "file": "assets/triangle-a-34dd4c2d.png",
+    "src": "resources/images/gfx/triangle-a.png"
+  },
+  "resources/images/gfx/gfx-z-h.png": {
+    "file": "assets/gfx-z-h-fa4343c3.png",
+    "src": "resources/images/gfx/gfx-z-h.png"
+  },
+  "resources/images/globe-particle.png": {
+    "file": "assets/globe-particle-4aebddea.png",
+    "src": "resources/images/globe-particle.png"
+  },
+  "resources/images/google-play.png": {
+    "file": "assets/google-play-136ffe2a.png",
+    "src": "resources/images/google-play.png"
+  },
+  "resources/images/header/gfx-a.png": {
+    "file": "assets/gfx-a-8186f3b7.png",
+    "src": "resources/images/header/gfx-a.png"
+  },
+  "resources/images/header/gfx-b.png": {
+    "file": "assets/gfx-b-db81aab4.png",
+    "src": "resources/images/header/gfx-b.png"
+  },
+  "resources/images/header/gfx-c.png": {
+    "file": "assets/gfx-c-80117a77.png",
+    "src": "resources/images/header/gfx-c.png"
+  },
+  "resources/images/header/gfx-d-light.png": {
+    "file": "assets/gfx-d-light-ea38c476.png",
+    "src": "resources/images/header/gfx-d-light.png"
+  },
+  "resources/images/header/gfx-d-dark.png": {
+    "file": "assets/gfx-d-dark-2ebbb080.png",
+    "src": "resources/images/header/gfx-d-dark.png"
+  },
+  "resources/images/header/gfx-e.png": {
+    "file": "assets/gfx-e-06d39103.png",
+    "src": "resources/images/header/gfx-e.png"
+  },
+  "resources/images/header/gfx-f.png": {
+    "file": "assets/gfx-f-308b6bf0.png",
+    "src": "resources/images/header/gfx-f.png"
+  },
+  "resources/images/header/gfx-h.png": {
+    "file": "assets/gfx-h-13a2e964.png",
+    "src": "resources/images/header/gfx-h.png"
+  },
+  "resources/images/icon-wallet.png": {
+    "file": "assets/icon-wallet-731c7015.png",
+    "src": "resources/images/icon-wallet.png"
+  },
+  "resources/images/icon.png": {
+    "file": "assets/icon-99fce590.png",
+    "src": "resources/images/icon.png"
+  },
+  "resources/images/icons/blockchain/blockchain-data.svg": {
+    "file": "assets/blockchain-data-758ac7a1.svg",
+    "src": "resources/images/icons/blockchain/blockchain-data.svg"
+  },
+  "resources/images/icons/blockchain/crypto-trading.svg": {
+    "file": "assets/crypto-trading-ed8acdaf.svg",
+    "src": "resources/images/icons/blockchain/crypto-trading.svg"
+  },
+  "resources/images/icons/blockchain/crypto-wallet.svg": {
+    "file": "assets/crypto-wallet-7007c4a6.svg",
+    "src": "resources/images/icons/blockchain/crypto-wallet.svg"
+  },
+  "resources/images/header/gfx-i.png": {
+    "file": "assets/gfx-i-973bc261.png",
+    "src": "resources/images/header/gfx-i.png"
+  },
+  "resources/images/icons/blockchain/institutional-service.svg": {
+    "file": "assets/institutional-service-17d1a4a0.svg",
+    "src": "resources/images/icons/blockchain/institutional-service.svg"
+  },
+  "resources/images/icons/blockchain/step-connect-wallet.svg": {
+    "file": "assets/step-connect-wallet-04f9e80f.svg",
+    "src": "resources/images/icons/blockchain/step-connect-wallet.svg"
+  },
+  "resources/images/header/gfx-g.png": {
+    "file": "assets/gfx-g-28d7a863.png",
+    "src": "resources/images/header/gfx-g.png"
+  },
+  "resources/images/header/gfx-k.png": {
+    "file": "assets/gfx-k-6a38ea71.png",
+    "src": "resources/images/header/gfx-k.png"
+  },
+  "resources/images/header/gfx-j.png": {
+    "file": "assets/gfx-j-753da66c.png",
+    "src": "resources/images/header/gfx-j.png"
+  },
+  "resources/images/icons/blockchain/step-download.svg": {
+    "file": "assets/step-download-b9e04efd.svg",
+    "src": "resources/images/icons/blockchain/step-download.svg"
+  },
+  "resources/images/icons/blockchain/step-register.svg": {
+    "file": "assets/step-register-bfdac370.svg",
+    "src": "resources/images/icons/blockchain/step-register.svg"
+  },
+  "resources/images/icons/blockchain/step-start-trading.svg": {
+    "file": "assets/step-start-trading-b3539e8d.svg",
+    "src": "resources/images/icons/blockchain/step-start-trading.svg"
+  },
+  "resources/images/icons/currency/btc-colored.svg": {
+    "file": "assets/btc-colored-9531c9e8.svg",
+    "src": "resources/images/icons/currency/btc-colored.svg"
+  },
+  "resources/images/icons/currency/eth-colored.svg": {
+    "file": "assets/eth-colored-f0bf85b4.svg",
+    "src": "resources/images/icons/currency/eth-colored.svg"
+  },
+  "resources/images/icons/currency/usdc-colored.svg": {
+    "file": "assets/usdc-colored-e0d074e5.svg",
+    "src": "resources/images/icons/currency/usdc-colored.svg"
+  },
+  "resources/images/icons/currency/usdt-colored.svg": {
+    "file": "assets/usdt-colored-38d1b4ad.svg",
+    "src": "resources/images/icons/currency/usdt-colored.svg"
+  },
+  "resources/images/icons/icon-a-dark.png": {
+    "file": "assets/icon-a-dark-b079fad7.png",
+    "src": "resources/images/icons/icon-a-dark.png"
+  },
+  "resources/images/icons/icon-a-light.png": {
+    "file": "assets/icon-a-light-29fc242b.png",
+    "src": "resources/images/icons/icon-a-light.png"
+  },
+  "resources/images/icons/icon-b-dark.png": {
+    "file": "assets/icon-b-dark-f0dfcbba.png",
+    "src": "resources/images/icons/icon-b-dark.png"
+  },
+  "resources/images/icons/icon-b-light.png": {
+    "file": "assets/icon-b-light-287b4292.png",
+    "src": "resources/images/icons/icon-b-light.png"
+  },
+  "resources/images/icons/icon-bg-a.png": {
+    "file": "assets/icon-bg-a-1379560e.png",
+    "src": "resources/images/icons/icon-bg-a.png"
+  },
+  "resources/images/icons/icon-bg-a2.png": {
+    "file": "assets/icon-bg-a2-965b7e43.png",
+    "src": "resources/images/icons/icon-bg-a2.png"
+  },
+  "resources/images/icons/icon-bg-a3.png": {
+    "file": "assets/icon-bg-a3-3845a541.png",
+    "src": "resources/images/icons/icon-bg-a3.png"
+  },
+  "resources/images/icons/icon-bitcoin.png": {
+    "file": "assets/icon-bitcoin-721bd8dd.png",
+    "src": "resources/images/icons/icon-bitcoin.png"
+  },
+  "resources/images/icons/icon-c-dark.png": {
+    "file": "assets/icon-c-dark-a52b2600.png",
+    "src": "resources/images/icons/icon-c-dark.png"
+  },
+  "resources/images/icons/icon-c-light.png": {
+    "file": "assets/icon-c-light-d4b163a4.png",
+    "src": "resources/images/icons/icon-c-light.png"
+  },
+  "resources/images/icons/icon-custom.png": {
+    "file": "assets/icon-custom-75b02adb.png",
+    "src": "resources/images/icons/icon-custom.png"
+  },
+  "resources/images/icons/icon-d-dark.png": {
+    "file": "assets/icon-d-dark-215ef603.png",
+    "src": "resources/images/icons/icon-d-dark.png"
+  },
+  "resources/images/icons/icon-d-light.png": {
+    "file": "assets/icon-d-light-034f6063.png",
+    "src": "resources/images/icons/icon-d-light.png"
+  },
+  "resources/images/icons/icon-e-dark.png": {
+    "file": "assets/icon-e-dark-ce0033ef.png",
+    "src": "resources/images/icons/icon-e-dark.png"
+  },
+  "resources/images/icons/icon-e-light.png": {
+    "file": "assets/icon-e-light-4f66301a.png",
+    "src": "resources/images/icons/icon-e-light.png"
+  },
+  "resources/images/icons/icon-f-dark.png": {
+    "file": "assets/icon-f-dark-53fcc55e.png",
+    "src": "resources/images/icons/icon-f-dark.png"
+  },
+  "resources/images/icons/icon-f-light.png": {
+    "file": "assets/icon-f-light-5bb508ed.png",
+    "src": "resources/images/icons/icon-f-light.png"
+  },
+  "resources/images/icons/icon-g-dark.png": {
+    "file": "assets/icon-g-dark-2389f644.png",
+    "src": "resources/images/icons/icon-g-dark.png"
+  },
+  "resources/images/icons/icon-g-light.png": {
+    "file": "assets/icon-g-light-24c2d764.png",
+    "src": "resources/images/icons/icon-g-light.png"
+  },
+  "resources/images/icons/icon-h-nobg.png": {
+    "file": "assets/icon-h-nobg-2a5e36bd.png",
+    "src": "resources/images/icons/icon-h-nobg.png"
+  },
+  "resources/images/icons/icon-h.png": {
+    "file": "assets/icon-h-64d34f91.png",
+    "src": "resources/images/icons/icon-h.png"
+  },
+  "resources/images/icons/icon-i-nobg.png": {
+    "file": "assets/icon-i-nobg-565402d9.png",
+    "src": "resources/images/icons/icon-i-nobg.png"
+  },
+  "resources/images/icons/icon-i.png": {
+    "file": "assets/icon-i-fe235f6f.png",
+    "src": "resources/images/icons/icon-i.png"
+  },
+  "resources/images/icons/icon-j-nobg.png": {
+    "file": "assets/icon-j-nobg-ac9121cc.png",
+    "src": "resources/images/icons/icon-j-nobg.png"
+  },
+  "resources/images/icons/icon-j.png": {
+    "file": "assets/icon-j-eb9e4d6b.png",
+    "src": "resources/images/icons/icon-j.png"
+  },
+  "resources/images/icons/icon-k.png": {
+    "file": "assets/icon-k-02cdd9ea.png",
+    "src": "resources/images/icons/icon-k.png"
+  },
+  "resources/images/icons/icon-l.png": {
+    "file": "assets/icon-l-9db724ef.png",
+    "src": "resources/images/icons/icon-l.png"
+  },
+  "resources/images/icons/icon-m.png": {
+    "file": "assets/icon-m-634f017a.png",
+    "src": "resources/images/icons/icon-m.png"
+  },
+  "resources/images/icons/icon-n.png": {
+    "file": "assets/icon-n-2856a431.png",
+    "src": "resources/images/icons/icon-n.png"
+  },
+  "resources/images/icons/icon-o.png": {
+    "file": "assets/icon-o-33cbe734.png",
+    "src": "resources/images/icons/icon-o.png"
+  },
+  "resources/images/icons/icon-p.png": {
+    "file": "assets/icon-p-01fda951.png",
+    "src": "resources/images/icons/icon-p.png"
+  },
+  "resources/images/icons/icon-q.png": {
+    "file": "assets/icon-q-fa688e95.png",
+    "src": "resources/images/icons/icon-q.png"
+  },
+  "resources/images/icons/icon-r.png": {
+    "file": "assets/icon-r-cd7f450f.png",
+    "src": "resources/images/icons/icon-r.png"
+  },
+  "resources/images/icons/icon-s.png": {
+    "file": "assets/icon-s-94adb2c9.png",
+    "src": "resources/images/icons/icon-s.png"
+  },
+  "resources/images/icons/icon-t-alt.png": {
+    "file": "assets/icon-t-alt-99d0068a.png",
+    "src": "resources/images/icons/icon-t-alt.png"
+  },
+  "resources/images/icons/icon-t.png": {
+    "file": "assets/icon-t-765e442a.png",
+    "src": "resources/images/icons/icon-t.png"
+  },
+  "resources/images/icons/icon-t10.png": {
+    "file": "assets/icon-t10-ebbcb995.png",
+    "src": "resources/images/icons/icon-t10.png"
+  },
+  "resources/images/icons/icon-t11.png": {
+    "file": "assets/icon-t11-5b535329.png",
+    "src": "resources/images/icons/icon-t11.png"
+  },
+  "resources/images/icons/icon-t12.png": {
+    "file": "assets/icon-t12-99e0b093.png",
+    "src": "resources/images/icons/icon-t12.png"
+  },
+  "resources/images/icons/icon-t13.png": {
+    "file": "assets/icon-t13-7c1a6680.png",
+    "src": "resources/images/icons/icon-t13.png"
+  },
+  "resources/images/icons/icon-t15.png": {
+    "file": "assets/icon-t15-d30469c0.png",
+    "src": "resources/images/icons/icon-t15.png"
+  },
+  "resources/images/icons/icon-t14.png": {
+    "file": "assets/icon-t14-9c45ce2e.png",
+    "src": "resources/images/icons/icon-t14.png"
+  },
+  "resources/images/icons/icon-t2.png": {
+    "file": "assets/icon-t2-c047b1bd.png",
+    "src": "resources/images/icons/icon-t2.png"
+  },
+  "resources/images/icons/icon-t3.png": {
+    "file": "assets/icon-t3-996389d7.png",
+    "src": "resources/images/icons/icon-t3.png"
+  },
+  "resources/images/icons/icon-t4.png": {
+    "file": "assets/icon-t4-4a410bdb.png",
+    "src": "resources/images/icons/icon-t4.png"
+  },
+  "resources/images/icons/icon-t5.png": {
+    "file": "assets/icon-t5-923bb043.png",
+    "src": "resources/images/icons/icon-t5.png"
+  },
+  "resources/images/icons/icon-t6.png": {
+    "file": "assets/icon-t6-5bef9020.png",
+    "src": "resources/images/icons/icon-t6.png"
+  },
+  "resources/images/icons/icon-t7.png": {
+    "file": "assets/icon-t7-89b1bfa8.png",
+    "src": "resources/images/icons/icon-t7.png"
+  },
+  "resources/images/icons/icon-t8.png": {
+    "file": "assets/icon-t8-bac6ea84.png",
+    "src": "resources/images/icons/icon-t8.png"
+  },
+  "resources/images/icons/icon-t9.png": {
+    "file": "assets/icon-t9-38037188.png",
+    "src": "resources/images/icons/icon-t9.png"
+  },
+  "resources/images/icons/icon-u.png": {
+    "file": "assets/icon-u-e2cddaae.png",
+    "src": "resources/images/icons/icon-u.png"
+  },
+  "resources/images/icons/icon-v.png": {
+    "file": "assets/icon-v-3bb4eec1.png",
+    "src": "resources/images/icons/icon-v.png"
+  },
+  "resources/images/lungwort/laptop-mobile-a.png": {
+    "file": "assets/laptop-mobile-a-6f61aaa1.png",
+    "src": "resources/images/lungwort/laptop-mobile-a.png"
+  },
+  "resources/images/lavender/gfx-x-light.png": {
+    "file": "assets/gfx-x-light-2b42e8f8.png",
+    "src": "resources/images/lavender/gfx-x-light.png"
+  },
+  "resources/images/lavender/i-light.png": {
+    "file": "assets/i-light-3056c81b.png",
+    "src": "resources/images/lavender/i-light.png"
+  },
+  "resources/images/lavender/j-light.png": {
+    "file": "assets/j-light-3dbe53de.png",
+    "src": "resources/images/lavender/j-light.png"
+  },
+  "resources/images/light/gfx-z-a.png": {
+    "file": "assets/gfx-z-a-d839bb94.png",
+    "src": "resources/images/light/gfx-z-a.png"
+  },
+  "resources/images/light/gfx-z-b.png": {
+    "file": "assets/gfx-z-b-20a3a37d.png",
+    "src": "resources/images/light/gfx-z-b.png"
+  },
+  "resources/images/light/gfx-z-c.png": {
+    "file": "assets/gfx-z-c-f779d25b.png",
+    "src": "resources/images/light/gfx-z-c.png"
+  },
+  "resources/images/logo-full-white.png": {
+    "file": "assets/logo-full-white-c7a8f00c.png",
+    "src": "resources/images/logo-full-white.png"
+  },
+  "resources/images/logo-full-white2x.png": {
+    "file": "assets/logo-full-white2x-0d372457.png",
+    "src": "resources/images/logo-full-white2x.png"
+  },
+  "resources/images/logo-s2-white.png": {
+    "file": "assets/logo-s2-white-370aade1.png",
+    "src": "resources/images/logo-s2-white.png"
+  },
+  "resources/images/logo-s2-white2x.png": {
+    "file": "assets/logo-s2-white2x-db4215bd.png",
+    "src": "resources/images/logo-s2-white2x.png"
+  },
+  "resources/images/logo-white.png": {
+    "file": "assets/logo-white-ede5ca17.png",
+    "src": "resources/images/logo-white.png"
+  },
+  "resources/images/logo.png": {
+    "file": "assets/logo-cbf03928.png",
+    "src": "resources/images/logo.png"
+  },
+  "resources/images/logo-white2x.png": {
+    "file": "assets/logo-white2x-dcaee4ad.png",
+    "src": "resources/images/logo-white2x.png"
+  },
+  "resources/images/logo/a.png": {
+    "file": "assets/a-0bef545b.png",
+    "src": "resources/images/logo/a.png"
+  },
+  "resources/images/logo/b.png": {
+    "file": "assets/b-a82afca1.png",
+    "src": "resources/images/logo/b.png"
+  },
+  "resources/images/logo/c.png": {
+    "file": "assets/c-c3de0df6.png",
+    "src": "resources/images/logo/c.png"
+  },
+  "resources/images/logo/d.png": {
+    "file": "assets/d-c98fb17d.png",
+    "src": "resources/images/logo/d.png"
+  },
+  "resources/images/logo/e.png": {
+    "file": "assets/e-f86b5090.png",
+    "src": "resources/images/logo/e.png"
+  },
+  "resources/images/logo2x.png": {
+    "file": "assets/logo2x-93769be4.png",
+    "src": "resources/images/logo2x.png"
+  },
+  "resources/images/lungwort/chart-a-dark.png": {
+    "file": "assets/chart-a-dark-d827c506.png",
+    "src": "resources/images/lungwort/chart-a-dark.png"
+  },
+  "resources/images/lungwort/chart-b-dark.png": {
+    "file": "assets/chart-b-dark-0be71835.png",
+    "src": "resources/images/lungwort/chart-b-dark.png"
+  },
+  "resources/images/lungwort/gfx-b.png": {
+    "file": "assets/gfx-b-22379ef8.png",
+    "src": "resources/images/lungwort/gfx-b.png"
+  },
+  "resources/images/lungwort/gfx-k.png": {
+    "file": "assets/gfx-k-2665b9b4.png",
+    "src": "resources/images/lungwort/gfx-k.png"
+  },
+  "resources/images/lungwort/gfx-l.png": {
+    "file": "assets/gfx-l-64474c00.png",
+    "src": "resources/images/lungwort/gfx-l.png"
+  },
+  "resources/images/lungwort/gfx-m.png": {
+    "file": "assets/gfx-m-59fc1465.png",
+    "src": "resources/images/lungwort/gfx-m.png"
+  },
+  "resources/images/lungwort/gfx-n.png": {
+    "file": "assets/gfx-n-fff5cec7.png",
+    "src": "resources/images/lungwort/gfx-n.png"
+  },
+  "resources/images/lungwort/gfx-sm-a.png": {
+    "file": "assets/gfx-sm-a-df41f4e0.png",
+    "src": "resources/images/lungwort/gfx-sm-a.png"
+  },
+  "resources/images/lungwort/gfx-sm-b.png": {
+    "file": "assets/gfx-sm-b-83217b99.png",
+    "src": "resources/images/lungwort/gfx-sm-b.png"
+  },
+  "resources/images/lungwort/gfx-sm-c.png": {
+    "file": "assets/gfx-sm-c-a1cace23.png",
+    "src": "resources/images/lungwort/gfx-sm-c.png"
+  },
+  "resources/images/lungwort/gfx-sm-d.png": {
+    "file": "assets/gfx-sm-d-0a693a26.png",
+    "src": "resources/images/lungwort/gfx-sm-d.png"
+  },
+  "resources/images/map-bg.png": {
+    "file": "assets/map-bg-fce268cf.png",
+    "src": "resources/images/map-bg.png"
+  },
+  "resources/images/map/map2.png": {
+    "file": "assets/map2-95e30eb5.png",
+    "src": "resources/images/map/map2.png"
+  },
+  "resources/images/mask-a-md.png": {
+    "file": "assets/mask-a-md-518943b4.png",
+    "src": "resources/images/mask-a-md.png"
+  },
+  "resources/images/mask-a.png": {
+    "file": "assets/mask-a-628a2582.png",
+    "src": "resources/images/mask-a.png"
+  },
+  "resources/images/mask-b.png": {
+    "file": "assets/mask-b-a2009645.png",
+    "src": "resources/images/mask-b.png"
+  },
+  "resources/images/mask-c-light.png": {
+    "file": "assets/mask-c-light-2b37ee73.png",
+    "src": "resources/images/mask-c-light.png"
+  },
+  "resources/images/mask-c.png": {
+    "file": "assets/mask-c-03bf291f.png",
+    "src": "resources/images/mask-c.png"
+  },
+  "resources/images/mask-e.png": {
+    "file": "assets/mask-e-56639690.png",
+    "src": "resources/images/mask-e.png"
+  },
+  "resources/images/mask-f-footer.png": {
+    "file": "assets/mask-f-footer-cf89bd97.png",
+    "src": "resources/images/mask-f-footer.png"
+  },
+  "resources/images/mask-d.png": {
+    "file": "assets/mask-d-d9904e7a.png",
+    "src": "resources/images/mask-d.png"
+  },
+  "resources/images/mask-f.png": {
+    "file": "assets/mask-f-ceaf00ca.png",
+    "src": "resources/images/mask-f.png"
+  },
+  "resources/images/muscari/chart-g-light.png": {
+    "file": "assets/chart-g-light-4bf19827.png",
+    "src": "resources/images/muscari/chart-g-light.png"
+  },
+  "resources/images/muscari/chart-h-light.png": {
+    "file": "assets/chart-h-light-0fcf6279.png",
+    "src": "resources/images/muscari/chart-h-light.png"
+  },
+  "resources/images/muscari/gfx-x-light.png": {
+    "file": "assets/gfx-x-light-4d3959e9.png",
+    "src": "resources/images/muscari/gfx-x-light.png"
+  },
+  "resources/images/nft-portfolio/blog/a.jpg": {
+    "file": "assets/a-91d2eb7b.jpg",
+    "src": "resources/images/nft-portfolio/blog/a.jpg"
+  },
+  "resources/images/nft-portfolio/blog/b.jpg": {
+    "file": "assets/b-afe2a7a1.jpg",
+    "src": "resources/images/nft-portfolio/blog/b.jpg"
+  },
+  "resources/images/nft-portfolio/featured-item-bid.jpg": {
+    "file": "assets/featured-item-bid-50dc2666.jpg",
+    "src": "resources/images/nft-portfolio/featured-item-bid.jpg"
+  },
+  "resources/images/nft-portfolio/blog/c.jpg": {
+    "file": "assets/c-156929eb.jpg",
+    "src": "resources/images/nft-portfolio/blog/c.jpg"
+  },
+  "resources/images/nft-portfolio/featured-item-owner.jpg": {
+    "file": "assets/featured-item-owner-44be075d.jpg",
+    "src": "resources/images/nft-portfolio/featured-item-owner.jpg"
+  },
+  "resources/images/nft-portfolio/gallery/a.jpg": {
+    "file": "assets/a-a0612ce2.jpg",
+    "src": "resources/images/nft-portfolio/gallery/a.jpg"
+  },
+  "resources/images/nft-portfolio/gallery/b.jpg": {
+    "file": "assets/b-3a877206.jpg",
+    "src": "resources/images/nft-portfolio/gallery/b.jpg"
+  },
+  "resources/images/nft-portfolio/gallery/c.jpg": {
+    "file": "assets/c-c80fabfd.jpg",
+    "src": "resources/images/nft-portfolio/gallery/c.jpg"
+  },
+  "resources/images/nft-portfolio/gallery/d.jpg": {
+    "file": "assets/d-9f102111.jpg",
+    "src": "resources/images/nft-portfolio/gallery/d.jpg"
+  },
+  "resources/images/nft-portfolio/gallery/e.jpg": {
+    "file": "assets/e-21dbfba6.jpg",
+    "src": "resources/images/nft-portfolio/gallery/e.jpg"
+  },
+  "resources/images/nft-portfolio/roadmap/a.jpg": {
+    "file": "assets/a-358ce163.jpg",
+    "src": "resources/images/nft-portfolio/roadmap/a.jpg"
+  },
+  "resources/images/nft-portfolio/gallery/f.jpg": {
+    "file": "assets/f-945c8968.jpg",
+    "src": "resources/images/nft-portfolio/gallery/f.jpg"
+  },
+  "resources/images/nft-portfolio/roadmap/b.jpg": {
+    "file": "assets/b-5fa9f116.jpg",
+    "src": "resources/images/nft-portfolio/roadmap/b.jpg"
+  },
+  "resources/images/nft-portfolio/roadmap/c.jpg": {
+    "file": "assets/c-b2a0688a.jpg",
+    "src": "resources/images/nft-portfolio/roadmap/c.jpg"
+  },
+  "resources/images/nft-portfolio/team/a.jpg": {
+    "file": "assets/a-4db3bd63.jpg",
+    "src": "resources/images/nft-portfolio/team/a.jpg"
+  },
+  "resources/images/nft-portfolio/team/b.jpg": {
+    "file": "assets/b-fb0c08b0.jpg",
+    "src": "resources/images/nft-portfolio/team/b.jpg"
+  },
+  "resources/images/nft-portfolio/story-cover.png": {
+    "file": "assets/story-cover-06343796.png",
+    "src": "resources/images/nft-portfolio/story-cover.png"
+  },
+  "resources/images/nft-portfolio/team/c.jpg": {
+    "file": "assets/c-69a26459.jpg",
+    "src": "resources/images/nft-portfolio/team/c.jpg"
+  },
+  "resources/images/nft-portfolio/team/d.jpg": {
+    "file": "assets/d-4d324d30.jpg",
+    "src": "resources/images/nft-portfolio/team/d.jpg"
+  },
+  "resources/images/nft-portfolio/team/e.jpg": {
+    "file": "assets/e-18f32e5c.jpg",
+    "src": "resources/images/nft-portfolio/team/e.jpg"
+  },
+  "resources/images/nft-portfolio/team/f.jpg": {
+    "file": "assets/f-796cf6ab.jpg",
+    "src": "resources/images/nft-portfolio/team/f.jpg"
+  },
+  "resources/images/nft-portfolio/video-cover.jpg": {
+    "file": "assets/video-cover-2031e824.jpg",
+    "src": "resources/images/nft-portfolio/video-cover.jpg"
+  },
+  "resources/images/partners/32-a.png": {
+    "file": "assets/32-a-5defac8f.png",
+    "src": "resources/images/partners/32-a.png"
+  },
+  "resources/images/partners/32-a-white.png": {
+    "file": "assets/32-a-white-5c445509.png",
+    "src": "resources/images/partners/32-a-white.png"
+  },
+  "resources/images/partners/32-b-white.png": {
+    "file": "assets/32-b-white-cf528654.png",
+    "src": "resources/images/partners/32-b-white.png"
+  },
+  "resources/images/partners/32-b.png": {
+    "file": "assets/32-b-187c3d5f.png",
+    "src": "resources/images/partners/32-b.png"
+  },
+  "resources/images/partners/32-c-white.png": {
+    "file": "assets/32-c-white-43bafced.png",
+    "src": "resources/images/partners/32-c-white.png"
+  },
+  "resources/images/partners/32-c.png": {
+    "file": "assets/32-c-85661c14.png",
+    "src": "resources/images/partners/32-c.png"
+  },
+  "resources/images/partners/32-d-white.png": {
+    "file": "assets/32-d-white-94ea2813.png",
+    "src": "resources/images/partners/32-d-white.png"
+  },
+  "resources/images/partners/32-d.png": {
+    "file": "assets/32-d-51662101.png",
+    "src": "resources/images/partners/32-d.png"
+  },
+  "resources/images/partners/32-e-white.png": {
+    "file": "assets/32-e-white-ef0736d4.png",
+    "src": "resources/images/partners/32-e-white.png"
+  },
+  "resources/images/partners/32-e.png": {
+    "file": "assets/32-e-fe8a9062.png",
+    "src": "resources/images/partners/32-e.png"
+  },
+  "resources/images/partners/64-a-white.png": {
+    "file": "assets/64-a-white-76874ae6.png",
+    "src": "resources/images/partners/64-a-white.png"
+  },
+  "resources/images/partners/64-a.png": {
+    "file": "assets/64-a-d4d9af6d.png",
+    "src": "resources/images/partners/64-a.png"
+  },
+  "resources/images/partners/64-b-white.png": {
+    "file": "assets/64-b-white-e6b1c096.png",
+    "src": "resources/images/partners/64-b-white.png"
+  },
+  "resources/images/partners/64-b.png": {
+    "file": "assets/64-b-c6b02b5e.png",
+    "src": "resources/images/partners/64-b.png"
+  },
+  "resources/images/partners/64-c-white.png": {
+    "file": "assets/64-c-white-4c405451.png",
+    "src": "resources/images/partners/64-c-white.png"
+  },
+  "resources/images/partners/64-c.png": {
+    "file": "assets/64-c-5bf68569.png",
+    "src": "resources/images/partners/64-c.png"
+  },
+  "resources/images/partners/64-d-white.png": {
+    "file": "assets/64-d-white-fe72b09a.png",
+    "src": "resources/images/partners/64-d-white.png"
+  },
+  "resources/images/partners/64-d.png": {
+    "file": "assets/64-d-eabba1ea.png",
+    "src": "resources/images/partners/64-d.png"
+  },
+  "resources/images/partners/64-e-white.png": {
+    "file": "assets/64-e-white-62c51817.png",
+    "src": "resources/images/partners/64-e-white.png"
+  },
+  "resources/images/partners/64-e.png": {
+    "file": "assets/64-e-7671f77b.png",
+    "src": "resources/images/partners/64-e.png"
+  },
+  "resources/images/partners/e-light.png": {
+    "file": "assets/a-light-3f0e84dd.png",
+    "src": "resources/images/partners/e-light.png"
+  },
+  "resources/images/partners/a-md.png": {
+    "file": "assets/a-md-4ed14d23.png",
+    "src": "resources/images/partners/a-md.png"
+  },
+  "resources/images/partners/a-sm-alt.png": {
+    "file": "assets/a-sm-alt-2e71c91c.png",
+    "src": "resources/images/partners/a-sm-alt.png"
+  },
+  "resources/images/partners/a-sm-light-alt.png": {
+    "file": "assets/a-sm-light-alt-537a125c.png",
+    "src": "resources/images/partners/a-sm-light-alt.png"
+  },
+  "resources/images/partners/a-sm-light.png": {
+    "file": "assets/a-sm-light-01e88c15.png",
+    "src": "resources/images/partners/a-sm-light.png"
+  },
+  "resources/images/partners/a-sm.png": {
+    "file": "assets/a-sm-d44120e6.png",
+    "src": "resources/images/partners/a-sm.png"
+  },
+  "resources/images/partners/a-xs-alt.png": {
+    "file": "assets/a-xs-alt-4fcf103d.png",
+    "src": "resources/images/partners/a-xs-alt.png"
+  },
+  "resources/images/partners/a-xs-light-alt.png": {
+    "file": "assets/a-xs-light-alt-443a5cc8.png",
+    "src": "resources/images/partners/a-xs-light-alt.png"
+  },
+  "resources/images/partners/a-xs-light.png": {
+    "file": "assets/a-xs-light-710d741c.png",
+    "src": "resources/images/partners/a-xs-light.png"
+  },
+  "resources/images/partners/a-xs.png": {
+    "file": "assets/a-xs-9a9cbf63.png",
+    "src": "resources/images/partners/a-xs.png"
+  },
+  "resources/images/partners/e.png": {
+    "file": "assets/a-6ffb5dca.png",
+    "src": "resources/images/partners/e.png"
+  },
+  "resources/images/partners/b-light.png": {
+    "file": "assets/b-light-772369ac.png",
+    "src": "resources/images/partners/b-light.png"
+  },
+  "resources/images/partners/b-md.png": {
+    "file": "assets/b-md-7d936105.png",
+    "src": "resources/images/partners/b-md.png"
+  },
+  "resources/images/partners/b-sm-alt.png": {
+    "file": "assets/b-sm-alt-a94942aa.png",
+    "src": "resources/images/partners/b-sm-alt.png"
+  },
+  "resources/images/partners/b-sm-light-alt.png": {
+    "file": "assets/b-sm-light-alt-afb66341.png",
+    "src": "resources/images/partners/b-sm-light-alt.png"
+  },
+  "resources/images/partners/b-sm-light.png": {
+    "file": "assets/b-sm-light-94b0e694.png",
+    "src": "resources/images/partners/b-sm-light.png"
+  },
+  "resources/images/partners/b-sm.png": {
+    "file": "assets/b-sm-880e4a5f.png",
+    "src": "resources/images/partners/b-sm.png"
+  },
+  "resources/images/partners/b-xs-alt.png": {
+    "file": "assets/b-xs-alt-d9f388c4.png",
+    "src": "resources/images/partners/b-xs-alt.png"
+  },
+  "resources/images/partners/b-xs-light-alt.png": {
+    "file": "assets/b-xs-light-alt-5cb88381.png",
+    "src": "resources/images/partners/b-xs-light-alt.png"
+  },
+  "resources/images/partners/b-xs-light.png": {
+    "file": "assets/b-xs-light-f7046717.png",
+    "src": "resources/images/partners/b-xs-light.png"
+  },
+  "resources/images/partners/b.png": {
+    "file": "assets/b-3ab3c374.png",
+    "src": "resources/images/partners/b.png"
+  },
+  "resources/images/partners/b-xs.png": {
+    "file": "assets/b-xs-8e749bbc.png",
+    "src": "resources/images/partners/b-xs.png"
+  },
+  "resources/images/partners/g-light.png": {
+    "file": "assets/c-light-db0e9631.png",
+    "src": "resources/images/partners/g-light.png"
+  },
+  "resources/images/partners/c-md.png": {
+    "file": "assets/c-md-5d9da947.png",
+    "src": "resources/images/partners/c-md.png"
+  },
+  "resources/images/partners/c-sm-alt.png": {
+    "file": "assets/c-sm-alt-63c93d68.png",
+    "src": "resources/images/partners/c-sm-alt.png"
+  },
+  "resources/images/partners/c-sm-light-alt.png": {
+    "file": "assets/c-sm-light-alt-7e69a022.png",
+    "src": "resources/images/partners/c-sm-light-alt.png"
+  },
+  "resources/images/partners/c-sm-light.png": {
+    "file": "assets/c-sm-light-a848d1c0.png",
+    "src": "resources/images/partners/c-sm-light.png"
+  },
+  "resources/images/partners/c-sm.png": {
+    "file": "assets/c-sm-bb0fced8.png",
+    "src": "resources/images/partners/c-sm.png"
+  },
+  "resources/images/partners/c-xs-alt.png": {
+    "file": "assets/c-xs-alt-504e1ed0.png",
+    "src": "resources/images/partners/c-xs-alt.png"
+  },
+  "resources/images/partners/c-xs-light.png": {
+    "file": "assets/c-xs-light-7e09317b.png",
+    "src": "resources/images/partners/c-xs-light.png"
+  },
+  "resources/images/partners/c-xs-light-alt.png": {
+    "file": "assets/c-xs-light-alt-eba62853.png",
+    "src": "resources/images/partners/c-xs-light-alt.png"
+  },
+  "resources/images/partners/c-xs.png": {
+    "file": "assets/c-xs-e5c1920f.png",
+    "src": "resources/images/partners/c-xs.png"
+  },
+  "resources/images/partners/g.png": {
+    "file": "assets/c-7ed8bc9b.png",
+    "src": "resources/images/partners/g.png"
+  },
+  "resources/images/partners/d-light.png": {
+    "file": "assets/d-light-97fcb8de.png",
+    "src": "resources/images/partners/d-light.png"
+  },
+  "resources/images/partners/d-md.png": {
+    "file": "assets/d-md-f6157a88.png",
+    "src": "resources/images/partners/d-md.png"
+  },
+  "resources/images/partners/d-sm-alt.png": {
+    "file": "assets/d-sm-alt-e6a2ab5f.png",
+    "src": "resources/images/partners/d-sm-alt.png"
+  },
+  "resources/images/partners/d-sm-light-alt.png": {
+    "file": "assets/d-sm-light-alt-a28ae0c1.png",
+    "src": "resources/images/partners/d-sm-light-alt.png"
+  },
+  "resources/images/partners/d-sm-light.png": {
+    "file": "assets/d-sm-light-d31c8fab.png",
+    "src": "resources/images/partners/d-sm-light.png"
+  },
+  "resources/images/partners/d-sm.png": {
+    "file": "assets/d-sm-cb5c2514.png",
+    "src": "resources/images/partners/d-sm.png"
+  },
+  "resources/images/partners/d-xs-alt.png": {
+    "file": "assets/d-xs-alt-9cae2684.png",
+    "src": "resources/images/partners/d-xs-alt.png"
+  },
+  "resources/images/partners/d-xs-light-alt.png": {
+    "file": "assets/d-xs-light-alt-8a127f5d.png",
+    "src": "resources/images/partners/d-xs-light-alt.png"
+  },
+  "resources/images/partners/d-xs-light.png": {
+    "file": "assets/d-xs-light-73061f13.png",
+    "src": "resources/images/partners/d-xs-light.png"
+  },
+  "resources/images/partners/d-xs.png": {
+    "file": "assets/d-xs-a2e05d87.png",
+    "src": "resources/images/partners/d-xs.png"
+  },
+  "resources/images/partners/d.png": {
+    "file": "assets/d-e2175783.png",
+    "src": "resources/images/partners/d.png"
+  },
+  "resources/images/partners/e-md.png": {
+    "file": "assets/e-md-0688f9df.png",
+    "src": "resources/images/partners/e-md.png"
+  },
+  "resources/images/partners/e-xs-alt.png": {
+    "file": "assets/e-xs-alt-3caf4bfd.png",
+    "src": "resources/images/partners/e-xs-alt.png"
+  },
+  "resources/images/partners/e-xs-light-alt.png": {
+    "file": "assets/e-xs-light-alt-3784e1a0.png",
+    "src": "resources/images/partners/e-xs-light-alt.png"
+  },
+  "resources/images/partners/e-xs-light.png": {
+    "file": "assets/e-xs-light-a4d07008.png",
+    "src": "resources/images/partners/e-xs-light.png"
+  },
+  "resources/images/partners/f-light.png": {
+    "file": "assets/f-light-7c773016.png",
+    "src": "resources/images/partners/f-light.png"
+  },
+  "resources/images/partners/e-xs.png": {
+    "file": "assets/e-xs-1811436c.png",
+    "src": "resources/images/partners/e-xs.png"
+  },
+  "resources/images/partners/f-xs-alt.png": {
+    "file": "assets/f-xs-alt-8181547a.png",
+    "src": "resources/images/partners/f-xs-alt.png"
+  },
+  "resources/images/partners/f-xs-light.png": {
+    "file": "assets/f-xs-light-2cbc5955.png",
+    "src": "resources/images/partners/f-xs-light.png"
+  },
+  "resources/images/partners/f-xs.png": {
+    "file": "assets/f-xs-825b3d14.png",
+    "src": "resources/images/partners/f-xs.png"
+  },
+  "resources/images/partners/f.png": {
+    "file": "assets/f-2448fef0.png",
+    "src": "resources/images/partners/f.png"
+  },
+  "resources/images/payment/p-holder-four.png": {
+    "file": "assets/p-holder-four-000dda27.png",
+    "src": "resources/images/payment/p-holder-four.png"
+  },
+  "resources/images/payment/p-holder-one.png": {
+    "file": "assets/p-holder-one-2cd2b3da.png",
+    "src": "resources/images/payment/p-holder-one.png"
+  },
+  "resources/images/payment/p-holder-three.png": {
+    "file": "assets/p-holder-three-da1d20a9.png",
+    "src": "resources/images/payment/p-holder-three.png"
+  },
+  "resources/images/payment/p-holder-two.png": {
+    "file": "assets/p-holder-two-e5a7a097.png",
+    "src": "resources/images/payment/p-holder-two.png"
+  },
+  "resources/images/piler-a.png": {
+    "file": "assets/piler-a-2e85fe62.png",
+    "src": "resources/images/piler-a.png"
+  },
+  "resources/images/piler-b.png": {
+    "file": "assets/piler-b-1a040dde.png",
+    "src": "resources/images/piler-b.png"
+  },
+  "resources/images/polygon-a.png": {
+    "file": "assets/polygon-a-cbaaafa3.png",
+    "src": "resources/images/polygon-a.png"
+  },
+  "resources/images/products/a.jpg": {
+    "file": "assets/a-b7544387.jpg",
+    "src": "resources/images/products/a.jpg"
+  },
+  "resources/images/products/b.jpg": {
+    "file": "assets/b-cef40fb2.jpg",
+    "src": "resources/images/products/b.jpg"
+  },
+  "resources/images/products/c.jpg": {
+    "file": "assets/c-f8680948.jpg",
+    "src": "resources/images/products/c.jpg"
+  },
+  "resources/images/products/d.jpg": {
+    "file": "assets/d-23f6eb60.jpg",
+    "src": "resources/images/products/d.jpg"
+  },
+  "resources/images/qr-android.png": {
+    "file": "assets/qr-android-8434cd35.png",
+    "src": "resources/images/qr-android.png"
+  },
+  "resources/images/qr-apple.png": {
+    "file": "assets/qr-apple-24204855.png",
+    "src": "resources/images/qr-apple.png"
+  },
+  "resources/images/salvia/docs-sm-a.jpg": {
+    "file": "assets/docs-sm-a-1883f067.jpg",
+    "src": "resources/images/salvia/docs-sm-a.jpg"
+  },
+  "resources/images/salvia/docs-sm-b.jpg": {
+    "file": "assets/docs-sm-b-0545777b.jpg",
+    "src": "resources/images/salvia/docs-sm-b.jpg"
+  },
+  "resources/images/salvia/docs-sm-c.jpg": {
+    "file": "assets/docs-sm-c-af8f115d.jpg",
+    "src": "resources/images/salvia/docs-sm-c.jpg"
+  },
+  "resources/images/salvia/docs-sm-d.jpg": {
+    "file": "assets/docs-sm-d-0c14673f.jpg",
+    "src": "resources/images/salvia/docs-sm-d.jpg"
+  },
+  "resources/images/salvia/gfx-i.png": {
+    "file": "assets/gfx-i-91d45b72.png",
+    "src": "resources/images/salvia/gfx-i.png"
+  },
+  "resources/images/salvia/gfx-j.png": {
+    "file": "assets/gfx-j-e0bb4d1d.png",
+    "src": "resources/images/salvia/gfx-j.png"
+  },
+  "resources/images/team/a-color.jpg": {
+    "file": "assets/a-color-abdde576.jpg",
+    "src": "resources/images/team/a-color.jpg"
+  },
+  "resources/images/team/a.jpg": {
+    "file": "assets/a-68ddb368.jpg",
+    "src": "resources/images/team/a.jpg"
+  },
+  "resources/images/team/b-color.jpg": {
+    "file": "assets/b-color-2e57c11e.jpg",
+    "src": "resources/images/team/b-color.jpg"
+  },
+  "resources/images/shape-z5.png": {
+    "file": "assets/shape-z5-5d8c6c90.png",
+    "src": "resources/images/shape-z5.png"
+  },
+  "resources/images/team/b.jpg": {
+    "file": "assets/b-582d80ab.jpg",
+    "src": "resources/images/team/b.jpg"
+  },
+  "resources/images/team/c-color.jpg": {
+    "file": "assets/c-color-6a8dc7ba.jpg",
+    "src": "resources/images/team/c-color.jpg"
+  },
+  "resources/images/team/c.jpg": {
+    "file": "assets/c-346d653c.jpg",
+    "src": "resources/images/team/c.jpg"
+  },
+  "resources/images/team/d-color.jpg": {
+    "file": "assets/d-color-28ca4a52.jpg",
+    "src": "resources/images/team/d-color.jpg"
+  },
+  "resources/images/team/d.jpg": {
+    "file": "assets/d-838228dd.jpg",
+    "src": "resources/images/team/d.jpg"
+  },
+  "resources/images/team/e-color.jpg": {
+    "file": "assets/e-color-63e98881.jpg",
+    "src": "resources/images/team/e-color.jpg"
+  },
+  "resources/images/team/e.jpg": {
+    "file": "assets/e-8bdee89a.jpg",
+    "src": "resources/images/team/e.jpg"
+  },
+  "resources/images/team/f-color.jpg": {
+    "file": "assets/f-color-34a4186c.jpg",
+    "src": "resources/images/team/f-color.jpg"
+  },
+  "resources/images/team/g-color.jpg": {
+    "file": "assets/g-color-b49ba4a4.jpg",
+    "src": "resources/images/team/g-color.jpg"
+  },
+  "resources/images/team/large-a.jpg": {
+    "file": "assets/large-a-bf412267.jpg",
+    "src": "resources/images/team/large-a.jpg"
+  },
+  "resources/images/team/md-a-color.jpg": {
+    "file": "assets/md-a-color-5b9216b0.jpg",
+    "src": "resources/images/team/md-a-color.jpg"
+  },
+  "resources/images/team/md-a.jpg": {
+    "file": "assets/md-a-11eb1f94.jpg",
+    "src": "resources/images/team/md-a.jpg"
+  },
+  "resources/images/team/md-b-color.jpg": {
+    "file": "assets/md-b-color-5a1a0039.jpg",
+    "src": "resources/images/team/md-b-color.jpg"
+  },
+  "resources/images/team/md-b.jpg": {
+    "file": "assets/md-b-6fe19183.jpg",
+    "src": "resources/images/team/md-b.jpg"
+  },
+  "resources/images/team/md-c-color.jpg": {
+    "file": "assets/md-c-color-fbc4e9c0.jpg",
+    "src": "resources/images/team/md-c-color.jpg"
+  },
+  "resources/images/team/md-c.jpg": {
+    "file": "assets/md-c-133895a8.jpg",
+    "src": "resources/images/team/md-c.jpg"
+  },
+  "resources/images/team/md-d-color.jpg": {
+    "file": "assets/md-d-color-c41fbe7f.jpg",
+    "src": "resources/images/team/md-d-color.jpg"
+  },
+  "resources/images/team/md-d.jpg": {
+    "file": "assets/md-d-3d4ece41.jpg",
+    "src": "resources/images/team/md-d.jpg"
+  },
+  "resources/images/team/md-e-color.jpg": {
+    "file": "assets/md-e-color-457fbfd1.jpg",
+    "src": "resources/images/team/md-e-color.jpg"
+  },
+  "resources/images/team/md-e.jpg": {
+    "file": "assets/md-e-d3d10d2b.jpg",
+    "src": "resources/images/team/md-e.jpg"
+  },
+  "resources/images/team/md-f-color.jpg": {
+    "file": "assets/md-f-color-5816d30f.jpg",
+    "src": "resources/images/team/md-f-color.jpg"
+  },
+  "resources/images/team/md-g-color.jpg": {
+    "file": "assets/md-g-color-933e7fd8.jpg",
+    "src": "resources/images/team/md-g-color.jpg"
+  },
+  "resources/images/team/sm-a.jpg": {
+    "file": "assets/sm-a-0170d992.jpg",
+    "src": "resources/images/team/sm-a.jpg"
+  },
+  "resources/images/team/sm-b.jpg": {
+    "file": "assets/sm-b-7411af62.jpg",
+    "src": "resources/images/team/sm-b.jpg"
+  },
+  "resources/images/team/sm-c.jpg": {
+    "file": "assets/sm-c-2a0fa367.jpg",
+    "src": "resources/images/team/sm-c.jpg"
+  },
+  "resources/images/team/sm-d.jpg": {
+    "file": "assets/sm-d-dfcb4ee9.jpg",
+    "src": "resources/images/team/sm-d.jpg"
+  },
+  "resources/images/team/sm-e.jpg": {
+    "file": "assets/sm-e-fa88239e.jpg",
+    "src": "resources/images/team/sm-e.jpg"
+  },
+  "resources/images/team/sq-a.jpg": {
+    "file": "assets/sq-a-8a08622e.jpg",
+    "src": "resources/images/team/sq-a.jpg"
+  },
+  "resources/images/team/sq-b.jpg": {
+    "file": "assets/sq-b-2b2620a9.jpg",
+    "src": "resources/images/team/sq-b.jpg"
+  },
+  "resources/images/team/sq-c.jpg": {
+    "file": "assets/sq-c-bf5b39c4.jpg",
+    "src": "resources/images/team/sq-c.jpg"
+  },
+  "resources/images/team/sq-d.jpg": {
+    "file": "assets/sq-d-4de4a64c.jpg",
+    "src": "resources/images/team/sq-d.jpg"
+  },
+  "resources/images/team/sq-e.jpg": {
+    "file": "assets/sq-e-63deb7b3.jpg",
+    "src": "resources/images/team/sq-e.jpg"
+  },
+  "resources/images/team/sq-f.jpg": {
+    "file": "assets/sq-f-543066f1.jpg",
+    "src": "resources/images/team/sq-f.jpg"
+  },
+  "resources/images/team/sq-g.jpg": {
+    "file": "assets/sq-g-abe7ce9d.jpg",
+    "src": "resources/images/team/sq-g.jpg"
+  },
+  "resources/images/tesm/tesm-one.jpg": {
+    "file": "assets/tesm-one-ebcf8914.jpg",
+    "src": "resources/images/tesm/tesm-one.jpg"
+  },
+  "resources/images/tesm/tesm-two.jpg": {
+    "file": "assets/tesm-two-31ae3349.jpg",
+    "src": "resources/images/tesm/tesm-two.jpg"
+  },
+  "resources/images/ui-shape-zinnia-a.svg": {
+    "file": "assets/ui-shape-zinnia-a-32987099.svg",
+    "src": "resources/images/ui-shape-zinnia-a.svg"
+  },
+  "resources/images/ui-shape-zinnia-b.svg": {
+    "file": "assets/ui-shape-zinnia-b-c0032c69.svg",
+    "src": "resources/images/ui-shape-zinnia-b.svg"
+  },
+  "resources/images/video/a.png": {
+    "file": "assets/a-dc129c2a.png",
+    "src": "resources/images/video/a.png"
+  },
+  "resources/images/video/b.jpg": {
+    "file": "assets/b-38bc6772.jpg",
+    "src": "resources/images/video/b.jpg"
+  },
+  "resources/images/video/c.png": {
+    "file": "assets/c-e91d760e.png",
+    "src": "resources/images/video/c.png"
+  },
+  "resources/images/vr-line.png": {
+    "file": "assets/vr-line-2523d4fb.png",
+    "src": "resources/images/vr-line.png"
+  },
+  "resources/images/wave.png": {
+    "file": "assets/wave-b6d64c38.png",
+    "src": "resources/images/wave.png"
+  },
+  "resources/images/zinnia/cover-a-white.png": {
+    "file": "assets/cover-a-white-9f50e8aa.png",
+    "src": "resources/images/zinnia/cover-a-white.png"
+  },
+  "resources/images/zinnia/gfx-f.png": {
+    "file": "assets/gfx-f-bd5addc1.png",
+    "src": "resources/images/zinnia/gfx-f.png"
+  },
+  "resources/images/zinnia/sc-large-j.png": {
+    "file": "assets/sc-large-j-3a4b8c24.png",
+    "src": "resources/images/zinnia/sc-large-j.png"
+  },
+  "resources/css/style-salvia.css": {
+    "file": "assets/style-salvia-8dbb073c.css",
+    "src": "resources/css/style-salvia.css",
+    "isEntry": true
+  },
+  "resources/css/vendor.bundle.css": {
+    "file": "assets/vendor.bundle-8fdd52b4.css",
+    "src": "resources/css/vendor.bundle.css",
+    "isEntry": true
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-4ed993c7.js",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/charts.js": {
+    "file": "assets/charts-05c1c106.js",
+    "src": "resources/js/charts.js",
+    "isEntry": true
+  },
+  "resources/js/scripts.js": {
+    "file": "assets/scripts-2ff5c13d.js",
+    "src": "resources/js/scripts.js",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-466ce093.js",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/js/jquery.bundle.js": {
+    "file": "assets/jquery.bundle-706bc692.js",
+    "src": "resources/js/jquery.bundle.js",
+    "isEntry": true
+  },
+  "resources/images/azalea/gfx-e.png": {
+    "file": "assets/gfx-e-b299a9a8.png",
+    "src": "resources/images/team/gfx-e.png"
+  },
+  "resources/images/dark/e-dark.png": {
+    "file": "assets/e-dark-a774eafe.png",
+    "src": "resources/images/light/e-light.png"
+  },
+  "resources/images/dark/f-dark.png": {
+    "file": "assets/f-dark-952a2ff9.png",
+    "src": "resources/images/light/f-light.png"
+  },
+  "resources/images/shape-a-sm.png": {
+    "file": "assets/shape-a-sm-98a6e39a.png",
+    "src": "resources/images/shape-b-sm.png"
+  },
+  "resources/images/jasmine/laptop-mobile-a.png": {
+    "file": "assets/laptop-mobile-a-6f61aaa1.png",
+    "src": "resources/images/lungwort/laptop-mobile-a.png"
+  },
+  "resources/images/partners/a-light.png": {
+    "file": "assets/a-light-3f0e84dd.png",
+    "src": "resources/images/partners/e-light.png"
+  },
+  "resources/images/partners/a.png": {
+    "file": "assets/a-6ffb5dca.png",
+    "src": "resources/images/partners/e.png"
+  },
+  "resources/images/partners/c-light.png": {
+    "file": "assets/c-light-db0e9631.png",
+    "src": "resources/images/partners/g-light.png"
+  },
+  "resources/images/partners/c.png": {
+    "file": "assets/c-7ed8bc9b.png",
+    "src": "resources/images/partners/g.png"
+  }
+}
