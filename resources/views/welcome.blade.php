@@ -8,6 +8,8 @@
     <title>FYT</title>
     <!-- Fonts -->
     <link href="https://fonts.bunny.net/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glider-js@1/glider.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/glider-js@1/glider.min.js"></script>
 
     <style>
         body {
@@ -18,6 +20,19 @@
             color: #000000;
             opacity: 1;
         }
+
+        .glider-track {
+            height: 100% !important;
+        }
+
+        /* @media only screen and (max-width: 600px) { */
+        .dots {
+            position: relative;
+            bottom: 2rem;
+            font-size: 2px;
+        }
+
+        /* } */
     </style>
     @vite(['resources/css/app.css', 'resources/css/style-salvia.css', 'resources/css/vendor.bundle.css'])
 </head>
@@ -64,16 +79,27 @@
                                                 data-animate="fadeInUp" data-delay="1.35">
                                                 <img src="{{ Vite::asset('resources/images/app-screens/sc-mockup.png') }}"
                                                     alt="mockup">
-                                                <div class="has-flex-slider gfx-screen round" data-slide-speed="2500"
-                                                    data-slide-show="true" data-anim-loop="true" data-anim-speed="1500">
-                                                    <ul class="slides">
-                                                        <li class="gfx-slide">
-                                                            <div class="bg-image round">
-                                                                <img src="{{ Vite::asset('resources/images/landing/app-screenn.png') }}"
-                                                                    alt="slide img">
-                                                            </div>
-                                                        </li>
-                                                    </ul>
+                                                <div class="glider-contain gfx-screen round">
+                                                    <div class="glider h-100">
+                                                        <div class="h-100">
+                                                            <img class="h-100 w-100"
+                                                                src="{{ Vite::asset('resources/images/landing/EDIT.png') }}"
+                                                                alt="slide img">
+                                                        </div>
+                                                        <div class="h-100">
+                                                            <img class="h-100 w-100"
+                                                                src="{{ Vite::asset('resources/images/landing/EDI2T.png') }}"
+                                                                alt="slide img">
+                                                        </div>
+                                                        <div class="h-100">
+                                                            <img class="h-100 w-100"
+                                                                src="{{ Vite::asset('resources/images/landing/EDI3T.png') }}"
+                                                                alt="slide img">
+                                                        </div>
+                                                    </div>
+
+                                                    {{-- <div role="tablist" class="dots">
+                                                    </div> --}}
                                                 </div>
                                             </div>
                                         </div><!-- .col -->
@@ -85,14 +111,19 @@
                                     <div
                                         class="d-flex justify-content-end justify-content-md-end align-items-center flex-lg-nowrap flex-wrap">
                                         <ul class="social pt-3 pt-md-0">
-                                            <li><a href="#"><em class="social-icon fab fa-facebook-f" style="padding-top:7px;"></em></a>
+                                            <li><a href="#"><em class="social-icon fab fa-facebook-f"
+                                                        style="padding-top:7px;"></em></a>
                                             </li>
-                                            <li><a href="#"><em class="social-icon fab fa-twitter" style="padding-top:7px;"></em></a>
+                                            <li><a href="#"><em class="social-icon fab fa-twitter"
+                                                        style="padding-top:7px;"></em></a>
                                             </li>
-                                            <li><a href="#"><em class="social-icon fab fa-youtube" style="padding-top:7px;"></em></a>
+                                            <li><a href="#"><em class="social-icon fab fa-youtube"
+                                                        style="padding-top:7px;"></em></a>
                                             </li>
-                                            <li><a href="#"><em class="social-icon fab fa-instagram" style="padding-top:7px;"></em></a>
-                                            <li><a href="#"><em class="social-icon fab fa-telegram" style="padding-top:7px;"></em></a></li>
+                                            <li><a href="#"><em class="social-icon fab fa-instagram"
+                                                        style="padding-top:7px;"></em></a>
+                                            <li><a href="#"><em class="social-icon fab fa-telegram"
+                                                        style="padding-top:7px;"></em></a></li>
                                             </li>
                                         </ul>
                                     </div>
@@ -123,5 +154,62 @@
 <script src="https://code.jquery.com/jquery-3.6.3.min.js"
     integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>
 @vite(['resources/js/jquery.bundle.js', 'resources/js/scripts.js', 'resources/js/charts.js', 'resources/js/app.js'])
+
+<script>
+    window.addEventListener('load', function() {
+        let glider = new Glider(document.querySelector('.glider'), {
+
+            // `auto` allows automatic responsive
+            // width calculations
+            slidesToShow: '1',
+            slidesToScroll: '1',
+
+            // should have been named `itemMinWidth`
+            // slides grow to fit the container viewport
+            // ignored unless `slidesToShow` is set to `auto`
+            itemWidth: undefined,
+
+            // if true, slides wont be resized to fit viewport
+            // requires `itemWidth` to be set
+            // * this may cause fractional slides
+            exactWidth: false,
+
+            // speed aggravator - higher is slower
+            duration: .5,
+
+            // dot container element or selector
+            // dots: '.dots',
+
+            // arrow container elements or selector
+            arrows: undefined,
+
+            // allow mouse dragging
+            draggable: true,
+            // how much to scroll with each mouse delta
+            dragVelocity: 3.3,
+
+            // event control
+            scrollPropagate: false,
+            eventPropagate: true,
+
+            // Force centering slide after scroll event
+            scrollLock: true,
+            // how long to wait after scroll event before locking
+            // if too low, it might interrupt normal scrolling
+            scrollLockDelay: 150,
+
+            // Force centering slide after resize event
+            resizeLock: true,
+        });
+
+        let i = 0; //Counter for the slider
+
+        setInterval(() => {
+            glider.scrollItem(i, true);
+            i++;
+            if (i == 3) i = 0;
+        }, 4000);
+    });
+</script>
 
 </html>
