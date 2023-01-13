@@ -996,7 +996,7 @@ h6, .h6, .fz-6 { font-size: 0.94rem; }
 
 .nk-df-shape-z4, .shape-z4:after, .shape-z4-bg { background-image: url(../images/shape-z4.png); }
 
-.nk-df-shape-z6, .shape-z6:after, .shape-z6-bg { background-image: url(../images/shape-z6.png); }
+.nk-df-shape-z6, .shape-z6:after, .shape-z6-bg { background-image: url(../images/shape-z6.png); opacity: 0.2; }
 
 .nk-df-shape-z6-sm, .shape-z6-sm:after, .shape-z6-sm-bg { background-image: url(../images/shape-z6-sm.png); }
 
@@ -3141,9 +3141,9 @@ ul.progress-info { display: flex; justify-content: space-between; }
 
 .page-loaded .preloader.no-default:before, .page-loaded .preloader.no-default:after { transform: translate(0, 0); }
 
-.preloader.no-default:before, .preloader.no-default:after { position: absolute; top: 0; left: 0; height: 100%; transition: all .6s; background-color: #3c1c94; }
+.preloader.no-default:before, .preloader.no-default:after { position: absolute; top: 0; left: 0; height: 100%; transition: all .6s; background-color: #00acff; }
 
-.preloader-alt:after, .preloader-alt:before { background: #6e19c2; }
+.preloader-alt:after, .preloader-alt:before { background: #00acff; }
 
 .page-loaded .preloader.no-split:before, .page-loaded .preloader.no-split:after { transform: translate(0, 0); }
 

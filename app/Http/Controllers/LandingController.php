@@ -13,7 +13,7 @@ class LandingController extends Controller
         $request->validate(['email' => 'required|string|email|max:255']);
         $email = $request->email;
 
-        Mail::to('febrescesar7@gmail.com')->send(new SendEmail($email));
+        Mail::to('alexisjoseva95@gmail.com')->send(new SendEmail($email));
         return back()->with('success', 'Email enviado correctamente');
     }
 }
