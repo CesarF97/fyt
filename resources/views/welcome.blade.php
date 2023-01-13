@@ -85,14 +85,14 @@
                                     <div
                                         class="d-flex justify-content-end justify-content-md-end align-items-center flex-lg-nowrap flex-wrap">
                                         <ul class="social pt-3 pt-md-0">
-                                            <li><a href="#"><em class="social-icon fab fa-facebook-f" style="padding-top:7px;"></em></a>
+                                            <li><a href="#"><em class="social-icon fab fa-facebook-f" style="padding-top:8px;"></em></a>
                                             </li>
-                                            <li><a href="#"><em class="social-icon fab fa-twitter" style="padding-top:7px;"></em></a>
+                                            <li><a href="#"><em class="social-icon fab fa-twitter" style="padding-top:8px;"></em></a>
                                             </li>
-                                            <li><a href="#"><em class="social-icon fab fa-youtube" style="padding-top:7px;"></em></a>
+                                            <li><a href="#"><em class="social-icon fab fa-youtube" style="padding-top:8px;"></em></a>
                                             </li>
-                                            <li><a href="#"><em class="social-icon fab fa-instagram" style="padding-top:7px;"></em></a>
-                                            <li><a href="#"><em class="social-icon fab fa-telegram" style="padding-top:7px;"></em></a></li>
+                                            <li><a href="#"><em class="social-icon fab fa-instagram" style="padding-top:8px;"></em></a>
+                                            <li><a href="#"><em class="social-icon fab fa-telegram" style="padding-top:8px;"></em></a></li>
                                             </li>
                                         </ul>
                                     </div>
@@ -110,8 +110,8 @@
         <!-- preloader -->
         <div class="preloader preloader-alt no-split">
             <span class="spinner spinner-alt">
-                <img class="spinner-brand" src="{{ Vite::asset('resources/images/logo-full-white.png') }}"
-                    alt="">
+                <img class="spinner-brand" src="{{ Vite::asset('resources/images/logo-fyt.png') }}"
+                    alt="preloader">
             </span>
         </div>
 
